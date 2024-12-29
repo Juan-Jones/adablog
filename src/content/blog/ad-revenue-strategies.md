@@ -18,7 +18,7 @@ This blog post explores various ad revenue strategies, offering insights and act
 
 ## Traditional Display Advertising
 
-Traditional display advertising is one of the best methods for [making money online](/digital-income-ideas). It involves using visual banners, images, or graphics placed on websites to attract and engage viewers. These ads are often positioned prominently on web pages, aiming to capture the attention of users through compelling visuals and messages. They can be static or animated, and typically link to the advertiser's site for further interaction. Despite the rise of more sophisticated ad formats, traditional display advertising remains a staple in digital marketing strategies.
+Traditional display advertising is one of the best methods for [making money online](/blog/digital-income-ideas). It involves using visual banners, images, or graphics placed on websites to attract and engage viewers. These ads are often positioned prominently on web pages, aiming to capture the attention of users through compelling visuals and messages. They can be static or animated, and typically link to the advertiser's site for further interaction. Despite the rise of more sophisticated ad formats, traditional display advertising remains a staple in digital marketing strategies.
 
 ### Display Google Ads
 
@@ -42,7 +42,7 @@ Implementing Native Ads
 
 ### Implementing Affiliate Marketing and Advertising
 
-Combine [affiliate marketing campaigns](/affiliate-marketing-fundamentals) for more revenue. Promote products that align with your website's content. Use compelling calls to action to encourage clicks. Write honest reviews and recommendations to build trust. Place affiliate links in high-traffic posts and pages. Track performance to see which products generate the most income. Diversify your affiliate programs to maximize earnings.
+Combine [affiliate marketing campaigns](/blog/affiliate-marketing-fundamentals) for more revenue. Promote products that align with your website's content. Use compelling calls to action to encourage clicks. Write honest reviews and recommendations to build trust. Place affiliate links in high-traffic posts and pages. Track performance to see which products generate the most income. Diversify your affiliate programs to maximize earnings.
 
 ### Programmatic Advertising
 

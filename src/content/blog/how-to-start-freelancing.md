@@ -18,7 +18,7 @@ Imagine waking up to the sound of your alarm, not with a sense of dread, but wit
 
 In essence, freelancing is about leveraging one’s skills and expertise to create a career that offers both autonomy and the potential for growth, making it an attractive option for those seeking a non-traditional work lifestyle.
 
-Well, what is the [definition of freelancing](/what-is-freelancing); is a form of self-employment where individuals offer their skills and services to clients on a project-by-project basis, rather than working as an employee for a single company. It provides the flexibility to work from anywhere and choose projects that align with one's skills and interests. According to [freelance statistics](/statistics-freelancers-should-know) around 59 million Americans freelanced in 2020, contributing over 1.2 trillion dollars U.S.D. to the economy.
+Well, what is the [definition of freelancing](/blog/what-is-freelancing); is a form of self-employment where individuals offer their skills and services to clients on a project-by-project basis, rather than working as an employee for a single company. It provides the flexibility to work from anywhere and choose projects that align with one's skills and interests. According to statistics around 59 million Americans freelanced in 2020, contributing over 1.2 trillion dollars U.S.D. to the economy.
 
 ## How to Start Freelancing
 
@@ -46,7 +46,7 @@ Creating social profiles can always be of use. A social profile gives you a plat
 
 ### 5. Build a Blog (Optional)
 
-Building a website or blog can be of use, but it’s not mandatory. However, if you [build a blog](/how-to-make-a-blog) you can increase your visibility and market share. You can build a website to provide examples of your work, contact information, testimonials, photos, and whatever other information you decide to display.
+Building a website or blog can be of use, but it’s not mandatory. However, if you [build a blog](/blog/how-to-make-a-blog) you can increase your visibility and market share. You can build a website to provide examples of your work, contact information, testimonials, photos, and whatever other information you decide to display.
 
 ### 6. Establish Your Freelance Business Legally
 
@@ -63,19 +63,19 @@ Freelancing encompasses a wide range of industries and skills. Here are some of 
 * Digital Marketing: Digital marketers help businesses promote their products and services online. This category includes social media management, SEO, email marketing, and more. It's a dynamic field that constantly evolves with technology and trends.
 * Graphic Design: Graphic designers create visual content for businesses, including logos, brochures, websites, and social media graphics. This field requires creativity and proficiency with design software like Adobe Photoshop and Illustrator.
 * Web Development: Web developers build and maintain websites. They can specialize in front-end development (focusing on the user interface) or back-end development (focusing on server-side logic and databases).
-* Writing and Editing: From content writing and blogging to technical writing and editing, [freelance writing gigs](/find-freelance-writing-gigs) are ideal for those with a knack for words. It's one of the most accessible fields, as it requires minimal investment to get started.
+* Writing and Editing: From content writing and blogging to technical writing and editing, [freelance writing gigs](/blog/find-freelance-writing-gigs) are ideal for those with a knack for words. It's one of the most accessible fields, as it requires minimal investment to get started.
 
 ### 9. Select the Best Freelance Websites
 
-Finding the right platform is essential for freelancers, and there are several top-rated websites to consider. Among the [best freelance websites](/best-freelance-websites) to monetize are Upwork.com and Freelancer.com, or [make money on Fiverr](/how-to-make-money-on-fiverr).
+Finding the right platform is essential for freelancers, and there are several top-rated websites to consider. Among the [best freelance websites](/blog/best-freelance-websites) to monetize are Upwork.com and Freelancer.com, or [make money on Fiverr](/blog/how-to-make-money-on-fiverr).
 
 ### 10. Manage Your Time and Finances
 
-Setting up a separate business bank account is crucial for keeping personal and business expenses distinct. Budgeting for taxes and tracking every expense meticulously can prevent financial surprises. Using accounting software simplifies invoicing and helps maintain accurate financial records. Regular reviews of your financial health ensure you are aware of your income and expenses, aiding in better decision-making. Proper financial management is essential to achieve long-term success and effectively [manage freelance finances](/freelance-finance-management).
+Setting up a separate business bank account is crucial for keeping personal and business expenses distinct. Budgeting for taxes and tracking every expense meticulously can prevent financial surprises. Using accounting software simplifies invoicing and helps maintain accurate financial records. Regular reviews of your financial health ensure you are aware of your income and expenses, aiding in better decision-making. Proper financial management is essential to achieve long-term success and effectively [manage freelance finances](/blog/freelance-finance-management).
 
 ### 11. Utilize Freelance Tips and Strategies
 
-Starting and succeeding in freelancing requires more than just skills. Here are some practical [tips for freelancers](/tips-for-freelancers):
+Starting and succeeding in freelancing requires more than just skills. Here are some practical [tips for freelancers](/blog/tips-for-freelancers):
 
 * Build a Strong Portfolio: A portfolio showcases your work and demonstrates your skills to potential clients. Include your best projects, testimonials, and a brief bio to give clients a sense of your expertise.
 * Network and Market Yourself: Networking is crucial in freelancing. Join online communities, attend industry events, and use social media to connect with potential clients and other freelancers. Effective self-marketing can set you apart from the competition.
@@ -83,7 +83,7 @@ Starting and succeeding in freelancing requires more than just skills. Here are 
 
 ### Who are the Richest Freelancers?
 
-Many freelancers have turned their skills into lucrative careers. While exact figures can vary, some of the [richest freelancers](/richest-freelancers) have made millions through their expertise and entrepreneurial spirit.
+Many freelancers have turned their skills into lucrative careers. While exact figures can vary, some of the [richest freelancers](/blog/richest-freelancers) have made millions through their expertise and entrepreneurial spirit.
 
 ### Conclusion
 

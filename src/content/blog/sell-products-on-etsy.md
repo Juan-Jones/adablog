@@ -20,11 +20,11 @@ Etsy provides sellers with a plethora of features and tools to enhance their sto
 
 ### Identify Desired Digital Products
 
-Selling [virtual goods](/selling-digital-products) on Etsy is convenient, but attracting traffic to your storefront is the real challenge. To succeed, identify and develop digital products that resonate with your target audience. Consider products such as backgrounds, digital coloring books, clip arts, embroidery patterns, wall art, computer and phone wallpapers, workbooks, and more. This guide is your compass to crafting products that speak to your customers' desires.
+Selling [virtual goods](/blog/selling-digital-products) on Etsy is convenient, but attracting traffic to your storefront is the real challenge. To succeed, identify and develop digital products that resonate with your target audience. Consider products such as backgrounds, digital coloring books, clip arts, embroidery patterns, wall art, computer and phone wallpapers, workbooks, and more. This guide is your compass to crafting products that speak to your customers' desires.
 
 ### Understand Your Etsy Target Market
 
-Etsy offers a unique platform where you can connect with your audience on a personal level. Conduct a thorough situational analysis to understand your market and its specific needs. Showcase your talents and present your creations as valuable products. Simplicity is key—once you've mastered this, rinse and repeat. Etsy, the bustling marketplace for handmade goods, vintage treasures, and creative crafts, has been connecting buyers and sellers since 2005. In 2020 alone, it recorded over 5 billion worth of trade traffic. As you embark on your journey to [earn digital money](/digital-income-ideas), remember that Etsy not only helps you achieve your dreams but also makes you feel truly human in the process.
+Etsy offers a unique platform where you can connect with your audience on a personal level. Conduct a thorough situational analysis to understand your market and its specific needs. Showcase your talents and present your creations as valuable products. Simplicity is key—once you've mastered this, rinse and repeat. Etsy, the bustling marketplace for handmade goods, vintage treasures, and creative crafts, has been connecting buyers and sellers since 2005. In 2020 alone, it recorded over 5 billion worth of trade traffic. As you embark on your journey to [earn digital money](/blog/digital-income-ideas), remember that Etsy not only helps you achieve your dreams but also makes you feel truly human in the process.
 
 ### Write Compelling Product Listings
 

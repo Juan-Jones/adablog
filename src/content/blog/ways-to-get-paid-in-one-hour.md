@@ -14,7 +14,7 @@ In today's digital age, there are numerous ways to earn money online quickly. Yo
 
 ## Ways to Get Paid in One Hour 
 
-Despite anyones level of education or skill-set theres an array of [ideas to earn money online](/digital-income-ideas). To be more specific, there are several quick cash injections tailored towards just about every skill-set, interests, and profession. The internet offers numerous possibilities for quick earnings, so take advantage of these methods and start boosting your income today. Without delay, lets get to it, here are over 30 ways to make money online in one hour;
+Despite anyones level of education or skill-set theres an array of [ideas to earn money online](/blog/digital-income-ideas). To be more specific, there are several quick cash injections tailored towards just about every skill-set, interests, and profession. The internet offers numerous possibilities for quick earnings, so take advantage of these methods and start boosting your income today. Without delay, lets get to it, here are over 30 ways to make money online in one hour;
 
 ### 1. Complete Microtasks
 
@@ -30,7 +30,7 @@ Do you have stock photos in your possession? If so you can get paid selling phot
 
 ### 4. Create a Quick E-book
 
-If you have knowledge in a particular area, consider [writing a short e-book](/how-to-write-an-ebook). With tools like Amazon Kindle Direct Publishing and Smashwords, you can publish and start selling your e-book within an hour. Earnings depend on the price and number of sales.
+If you have knowledge in a particular area, consider [writing a short e-book](/blog/how-to-write-an-ebook). With tools like Amazon Kindle Direct Publishing and Smashwords, you can publish and start selling your e-book within an hour. Earnings depend on the price and number of sales.
 
 ### 6. Rent Out Your Driveway
 
@@ -50,7 +50,7 @@ Online focus groups pay participants to discuss products and services. Companies
 
 ### 9. Earn Money on Twitch
 
-If you love gaming, there are several ways to turn your passion into a source of income. One of the most popular options is to [earn money on Twitch](/get-paid-on-twitch) by live streaming your gameplay. Streamers can monetize their channels through subscriptions, ad revenue, and viewer donations. As your audience grows, you can also attract sponsorships and brand partnerships, increasing your earnings. Success on Twitch requires a mix of gaming skills, personality, and consistency to keep your viewers engaged. 
+If you love gaming, there are several ways to turn your passion into a source of income. One of the most popular options is to [earn money on Twitch](/blog/get-paid-on-twitch) by live streaming your gameplay. Streamers can monetize their channels through subscriptions, ad revenue, and viewer donations. As your audience grows, you can also attract sponsorships and brand partnerships, increasing your earnings. Success on Twitch requires a mix of gaming skills, personality, and consistency to keep your viewers engaged. 
 
 ### 10. Participate in Market Research
 
@@ -70,7 +70,7 @@ If you have expertise in a specific field, consider offering consulting services
 
 ### 14. Create and Sell Digital Products
 
-Creating and selling digital products, such as printables, templates, and design assets, can be a profitable venture. Websites like Etsy and Creative Market allow you to [sell your digital products](/selling-digital-products) to a wide audience.
+Creating and selling digital products, such as printables, templates, and design assets, can be a profitable venture. Websites like Etsy and Creative Market allow you to [sell your digital products](/blog/selling-digital-products) to a wide audience.
 
 ### 15. Earn Rewards From Apps
 

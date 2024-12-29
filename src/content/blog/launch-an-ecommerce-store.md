@@ -16,14 +16,14 @@ In the rapidly evolving landscape of e-commerce, *launching an online store* has
 
 Before diving into the intricacies of launching your online storefront, it's essential to grasp the fundamental concepts and principles that underpin the world of e-commerce.
 
-* What is E-Commerce: Learn the [basics of electronic commerce](/what-is-ecommerce) and principles of online business transactions.
+* What is E-Commerce: Learn the [basics of electronic commerce](/blog/what-is-ecommerce) and principles of online business transactions.
 * The Evolution of Online Shopping: Explore how online shopping has transformed over time and its impact on retail.
 * Benefits of Starting an Online Store: Discover the advantages and opportunities of establishing an internet-based retail business.
 * Key E-Commerce Terminology: Familiarize yourself with essential terms and concepts used in the world of electronic commerce.
 
 ## How to Build the Best Online Stores
 
-Developing an *online store* is a multifaceted endeavor that requires careful planning, technical expertise, and a customer-centric approach. By selecting the [best e-commerce platform](/best-ecommerce-platforms), designing a user-friendly interface, curating quality products, and implementing effective marketing strategies, you can create an online store that not only reflects your brand but also provides a seamless shopping experience for your customers.
+Developing an *online store* is a multifaceted endeavor that requires careful planning, technical expertise, and a customer-centric approach. By selecting the [best e-commerce platform](/blog/best-ecommerce-platforms), designing a user-friendly interface, curating quality products, and implementing effective marketing strategies, you can create an online store that not only reflects your brand but also provides a seamless shopping experience for your customers.
 
 ### 1. Setup Your Store
 
@@ -45,13 +45,13 @@ Ensure that your payment gateway is secure and compliant with industry standards
 
 Once your store is set up, it's crucial to implement e-commerce marketing strategies. Techniques such as SEO, social media marketing, and email campaigns are vital. They help increase visibility and drive traffic to your site. Consistent analysis and optimization of these strategies ensure continued growth and success.
 
-Create high-quality, original content such as blog posts, tutorials, and product guides to engage your audience and establish your authority in your niche. Leverage social media channels and email marketing campaigns to promote your content and attract potential customers. For more tailored strategies, seek expert [e-commerce marketing advice](/ecommerce-marketing-tips) to identify opportunities specific to your business. By combining these tactics, you can build a strong online presence, attract new customers, and retain existing ones, ultimately driving sales and long-term success.
+Create high-quality, original content such as blog posts, tutorials, and product guides to engage your audience and establish your authority in your niche. Leverage social media channels and email marketing campaigns to promote your content and attract potential customers. For more tailored strategies, seek expert [e-commerce marketing advice](/blog/ecommerce-marketing-tips) to identify opportunities specific to your business. By combining these tactics, you can build a strong online presence, attract new customers, and retain existing ones, ultimately driving sales and long-term success.
 
 ### 5. Sell Your Products
 
 Selecting where to sell products is crucial to your store's success. There are many options available, each with its unique features and benefits. Here are some of the best e-commerce platforms to consider:
 
-* Sell on Shopify: Shopify is one of the most popular e-commerce platforms, known for its user-friendly interface and extensive app store. With over 1 million businesses [selling products on Shopify](/sell-on-shopify), it's a proven platform for success.
+* Sell on Shopify: Shopify is one of the most popular e-commerce platforms, known for its user-friendly interface and extensive app store. With over 1 million businesses [selling products on Shopify](/blog/sell-on-shopify), it's a proven platform for success.
 * Promote Products on WooCommerce: WooCommerce is a powerful WordPress plugin that allows you to turn your WordPress site intofeatured a fully functional e-commerce store.
 * List Items on BigCommerce: BigCommerce offers a comprehensive solution for larger businesses with advanced needs.
 * Sell Stuff on Magento: Magento is an open-source platform designed for developers and businesses with complex requirements. It offers unparalleled customization but may require technical expertise to manage.
@@ -72,7 +72,7 @@ Investing in education can provide valuable insights and skills to enhance your 
 * Facebook Ads for E-Commerce by Skillshare
 * E-commerce SEO Mastery by Coursera
 
-Secondly, Explore [B2B e-commerce](/b2b-ecommerce). While most people think of e-commerce as B2C, B2B e-commerce is a growing sector with significant opportunities. B2B transactions often involve larger order volumes and long-term contracts, making it a lucrative market.
+Secondly, Explore [B2B e-commerce](/blog/b2b-ecommerce). While most people think of e-commerce as B2C, B2B e-commerce is a growing sector with significant opportunities. B2B transactions often involve larger order volumes and long-term contracts, making it a lucrative market.
 
 Lastly, learn how to start freelancing in e-commerce. There are several freelance avenues to explore, i.e., web development, digital marketing, content creation, graphic design, virtual assistance and more.
 
