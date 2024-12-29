@@ -1,27 +1,27 @@
 ---
-import AstroSVG from '../assets/astro/astro-cover.png'
-import TailwindSVG from '../assets/svg/undraw/undraw_tailwind_css.svg'
-import HTMLSVG from '../assets/svg/undraw/undraw_static_assets.svg'
+import AstroSVG from '../assets/gallery/images/passive-income.png'
+import TailwindSVG from '../assets/gallery/images/side-hustles.png'
+import HTMLSVG from '../assets/gallery/images/online-business.png'
 
 const callouts = [
   {
-    name: 'Astro',
-    description: 'Build faster websites with less client-side Javascript',
+    name: 'Passive Income Ideas',
+    description: 'Discover Exclusive Passive Income Ideas for Financial Freedom',
     imageSrc: AstroSVG.src,
     imageAlt: 'Astro logo',
-    href: 'https://astro.build'
+    href: 'https://earnonlinemoney.org'
   },
   {
-    name: 'TailwindCSS',
+    name: 'Creative Side Hustles',
     description:
-      'A utility-first CSS framework that can be composed to build any design, directly in your markup',
+      'Explore Side Hustles to Boost Your Income and Achieve Financial Goals',
     imageSrc: TailwindSVG.src,
     imageAlt: 'TailwindCSS drawing',
     href: 'https://tailwindcss.com'
   },
   {
-    name: 'HTML/CSS/Javascript',
-    description: 'The core building blocks of the web',
+    name: 'Start an Online Business',
+    description: 'Find Ways to Build and Grow a Successful Online Business',
     imageSrc: HTMLSVG.src,
     imageAlt: 'Core Web',
     href: 'https://w3.org'
@@ -29,15 +29,15 @@ const callouts = [
 ]
 ---
 
-<div class='bg-purple-100 dark:bg-purple-900'>
+<div class='bg-green-100 dark:bg-green-700'>
   <div class='mx-auto max-w-7xl px-4 sm:px-6 lg:px-8'>
     <div class='mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32'>
-      <h2 class='text-4xl font-extrabold text-purple-800 dark:text-purple-100'>Find Out More</h2>
+      <h2 class='text-4xl font-extrabold text-green-700 dark:text-green-100'>Find Out More</h2>
       <div class='mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0'>
         {
           callouts.map((callout) => (
             <div class='group relative'>
-              <div class='relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 dark:bg-purple-600 sm:h-64'>
+              <div class='relative h-80 w-full overflow-hidden rounded-lg bg-white sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 group-hover:opacity-75 dark:bg-green-600 sm:h-64'>
                 <img
                   src={callout.imageSrc}
                   alt={callout.imageAlt}
@@ -45,7 +45,7 @@ const callouts = [
                   loading='lazy'
                 />
               </div>
-              <h3 class='mt-6 text-2xl text-purple-500 dark:text-purple-300'>
+              <h3 class='mt-6 text-2xl text-black-500 dark:text-black-300'>
                 <a href={callout.href}>
                   <span class='absolute inset-0' />
                   {callout.name}

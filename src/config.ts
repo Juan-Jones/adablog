@@ -7,46 +7,47 @@ export interface TagType {
 }
 
 export const SiteMetadata = {
-  title: 'Hello Astro',
-  description: 'An Astro starter for corporate/marketing/blog websites.',
+  title: 'Earn Money Online',
+  description: 'Ultimate guide to earn money online free, quick or easy. Find trending side hustles, passive income ideas, cash injections online jobs & more',
   author: {
-    name: 'Chris Tham',
-    twitter: '@chris1tham',
-    url: 'https://christham.net',
-    email: 'chris@christham.net',
-    summary: 'Outrageous actualiser.'
+    name: 'Dejuan Jones',
+    twitter: '@moneyonline_fre',
+    url: 'https://earnonlinemoney.org/dejuan-jones',
+    email: 'jonesdejuan24@gmail.com',
+    summary: 'Want to stay up to date with the latest trends to make money online and offline? Follow us on social media.'
   },
   org: {
-    name: 'Hello Tham',
-    twitter: '@hellothamcom',
-    url: 'https://hellotham.com',
-    email: 'info@hellotham.com',
+    name: 'Earn Money Online',
+    twitter: '@moneyonline_fre',
+    url: 'https://earnonlinemoney.org',
+    email: 'jonesdejuan24@gmail.com',
     summary:
-      'Hello Tham is a boutique management consulting firm. We specialise in Business and IT strategies, operating models, strategic roadmaps, enterprise architecture, analytics and business process design.'
+      'Ultimate guide to earn money online free, quick or easy. Find trending side hustles, passive income ideas, cash injections online jobs & more.'
   },
   location: 'Rivendell, Middle Earth',
   latlng: [-33.86785, 151.20732] as [number, number],
-  repository: 'https://github.com/hellotham/hello-astro',
+  repository: 'https://github.com/Juan-Jones/adablog',
   buildTime: new Date()
 }
 
-export { default as Logo } from './assets/svg/astro/astro-icon-dark.svg'
-export { default as LogoImage } from './assets/astro/astro-logo-dark.png'
-export { default as FeaturedSVG } from './assets/svg/undraw/undraw_design_inspiration.svg'
-export { default as DefaultSVG } from './assets/svg/undraw/undraw_my_feed.svg'
-export { default as DefaultImage } from './assets/undraw/undraw_my_feed.png'
+export { default as Logo } from '/public/favicon.svg'
+export { default as LogoImage } from '/public/favicon.svg'
+export { default as FeaturedSVG } from './assets/gallery/images/digital-income.svg'
+export { default as DefaultSVG } from './assets/gallery/images/digital-income.svg'
+export { default as DefaultImage } from './assets/gallery/images/digital-income.svg'
 
 export const NavigationLinks = [
   { name: 'Home', href: '' },
   { name: 'About', href: 'about' },
-  { name: 'Contact', href: 'contact' },
+  { name: 'Earn Digital Income', href: 'blog/digital-income-ideas/' },
+  { name: 'Creative Side Hustles', href: 'blog/creative-side-hustles' },
+  { name: 'Passive Income Investments', href: 'blog/xxxxxxxxxxxxxxxxxpassive-income-investments' },
   { name: 'Blog', href: 'blog' },
-  { name: 'Docs', href: 'doc/introduction' }
 ]
 
-export const PAGE_SIZE = 6
+export const PAGE_SIZE = 10
 
-export const GITHUB_EDIT_URL = `https://github.com/hellotham/hello-astro`
+export const GITHUB_EDIT_URL = `https://github.com/Juan-Jones/adablog`
 
 export const COMMUNITY_INVITE_URL = `https://astro.build/chat`
 
@@ -60,3 +61,4 @@ export async function getPosts() {
     a.data.pubDate && b.data.pubDate ? +b.data.pubDate - +a.data.pubDate : 0
   )
 }
+

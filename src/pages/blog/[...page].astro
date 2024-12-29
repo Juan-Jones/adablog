@@ -1,6 +1,7 @@
 ---
 import type { Page, PaginateFunction } from 'astro'
 import type { CollectionEntry } from 'astro:content'
+import { getEntry } from 'astro:content'
 import { PAGE_SIZE, getPosts } from '../../config'
 import Base from '../../layouts/base.astro'
 import PageHero from '../../components/pagehero.astro'

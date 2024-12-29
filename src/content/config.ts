@@ -36,6 +36,7 @@ const page = defineCollection({
       extra: z.array(z.enum(['math', 'markmap', 'mermaid', 'gallery'])).optional()
     })
 })
+
 const doc = defineCollection({
   schema: ({ image }) =>
     z.object({

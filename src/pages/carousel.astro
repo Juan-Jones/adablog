@@ -3,10 +3,7 @@ import type { CollectionEntry } from 'astro:content'
 import { SiteMetadata, getPosts } from '../config'
 import Base from '../layouts/base.astro'
 import MyCarousel from '../components/carousel.astro'
-import Features from '../components/features.astro'
-import FindOutMore from '../components/findoutmore.astro'
 import LatestArticles from '../components/latestarticles.astro'
-import CTA from '../components/cta.astro'
 import coverSVG from '../assets/svg/undraw/undraw_design_inspiration.svg'
 import socialImage from '../assets/undraw/undraw_design_inspiration.png'
 
@@ -35,23 +32,29 @@ const posts = await getPosts()
     <h1
       class='text-left text-4xl font-extrabold tracking-tight text-gray-100 sm:text-5xl md:text-6xl'
     >
-      <span class='block xl:inline'>hello</span>{' '}
-      <span class='block text-purple-500 xl:inline'>Astro</span>
+      <span class='block xl:inline'>Earn Money Online</span>{' '}
+      <span class='block text-purple-500 xl:inline'>Digital Income Guide</span>
     </h1>
     <p
       class='mt-3 text-base text-gray-300 sm:mx-auto sm:mt-5 sm:max-w-xl sm:text-lg md:mt-5 lg:mx-0'
     >
-      Hello Astro is a full featured corporate/marketing/blog starter theme written in Typescript,
-      TailwindCSS and Astro. It supports Markdown and MDX based pages and blog posts (including math
-      and diagrams), plus full text search on blog pages.
+    Howdy, your quest to earn money online starts here! In this guide, you'll discover 
+    side hustles, online jobs, and business opportunities online and offline.
     </p>
     <p
-      class='mt-3 text-base text-gray-300 sm:mx-auto sm:mt-5 sm:max-w-xl sm:text-lg md:mt-5 lg:mx-0'
-    >
-      It has full SEO support for Facebook (Open Graph) tags, Twitter Cards and Schema/JSON-LD
-      metadata. It also features fully auto generated RSS feed and sitemap for search engine
-      indexing.
+      class='mt-3 text-base text-gray-600 dark:text-gray-300 sm:mx-auto sm:mt-5 sm:max-w-xl sm:text-lg md:mt-5 md:text-xl lg:mx-0'
+      >
+      It doesn't matter what your current situation is; college student, construction
+      worker, accountant, convicted felon, or jobless. Nor, does it matter where you 
+      live, anyone can generate income online! 
     </p>
+    <p
+      class='mt-3 text-base text-gray-600 dark:text-gray-300 sm:mx-auto sm:mt-5 sm:max-w-xl sm:text-lg md:mt-5 md:text-xl lg:mx-0'
+          >
+      Ready to boost your income? Discover proven ways to make money online and achieve 
+      your financial goals. Start your journey to success with side hustles or explore 
+      digital income ideas—your path to earning online begins here!
+     </p>
     <div class='mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start'>
       <div class='rounded-md shadow'>
         <a
@@ -63,7 +66,7 @@ const posts = await getPosts()
       </div>
       <div class='mt-3 sm:ml-3 sm:mt-0'>
         <a
-          href='https://github.com/sponsors/hellotham'
+          href='https://github.com/Juan-Jones/adablog'
           class='flex w-full items-center justify-center rounded-md border border-transparent bg-purple-100 px-8 py-2 text-base font-medium text-purple-800 hover:bg-pink-200 dark:bg-purple-900 dark:text-purple-100 dark:hover:bg-pink-900 md:px-10 md:py-3 md:text-lg'
           rel='noopener noreferrer'
           target='_blank'
@@ -73,9 +76,5 @@ const posts = await getPosts()
       </div>
     </div>
   </MyCarousel>
-  <Features />
-  <FindOutMore />
   <LatestArticles {posts} />
-  <CTA />
-  <div class='bg-white p-24 dark:bg-black md:p-12'></div>
 </Base>

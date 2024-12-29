@@ -1,6 +1,6 @@
 ---
-title: 'Hello Astro'
+title: 'Dejuan Jones'
 image: ./default.png
-contact: 'info@hellotham.com'
-description: 'Astronaut'
+contact: 'jonesdejuan24@gmail.com'
+description: 'Authors of earnonlinemoney.'
 ---

@@ -4,7 +4,6 @@ import type { CollectionEntry } from 'astro:content'
 import { getEntry } from 'astro:content'
 import { Image } from 'astro:assets'
 import { PAGE_SIZE, getPosts } from '../../../config'
-import { getCollection } from 'astro:content'
 import Base from '../../../layouts/base.astro'
 import PageHero from '../../../components/pagehero.astro'
 import BlogRoll from '../../../components/blogroll.astro'
@@ -16,10 +15,12 @@ export interface Props {
   page: Page<CollectionEntry<'blog'>>
 }
 
+// Astro parameters and properties
 const { author } = Astro.params
 const { page } = Astro.props
 
-const detail = await getEntry('author', author!)
+// Fetch specific author details (hardcoded to "dejuan-jones")
+const detail = await getEntry('author', 'dejuan-jones')
 
 const frontmatter: CollectionEntry<'page'>['data'] = {
   title:
@@ -43,17 +44,18 @@ const frontmatter: CollectionEntry<'page'>['data'] = {
 const currentPage = Astro.url.pathname.replace(/(\/\d*)?\/$/, '')
 
 export async function getStaticPaths({ paginate }: { paginate: PaginateFunction }) {
-  const authors = await getCollection('author')
   const posts = await getPosts()
 
-  return authors.flatMap((author) => {
-    return paginate(
-      posts.filter((post) => post.data.author!.slug == author.slug),
-      {
-        params: { author: author.slug },
-        pageSize: PAGE_SIZE
-      }
-    )
+  // Set the author slug to "dejuan-jones"
+  const authorSlug = "dejuan-jones"
+
+  // Filter posts for the specific author
+  const filteredPosts = posts.filter((post) => post.data.author?.slug === authorSlug)
+
+  // Generate paginated paths for the author
+  return paginate(filteredPosts, {
+    params: { author: authorSlug },
+    pageSize: PAGE_SIZE,
   })
 }
 ---

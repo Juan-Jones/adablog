@@ -2,7 +2,6 @@
 import { getCollection } from 'astro:content'
 import { Icon } from 'astro-icon/components'
 import Base from '../layouts/base.astro'
-import Map from '../components/map.astro'
 import PageHero from '../components/pagehero.astro'
 import type { CollectionEntry } from 'astro:content'
 import { SiteMetadata } from '../config'
@@ -33,9 +32,6 @@ const social = await getCollection('social')
       <div class='block bg-white dark:bg-gray-900 lg:my-8'>
         <div class='flex flex-wrap items-start'>
           <div class='block w-full shrink-0 grow-0 basis-auto lg:flex lg:w-6/12 xl:w-4/12'>
-            <div class='w-full'>
-              <Map loc={SiteMetadata.latlng} zoom={11} />
-            </div>
           </div>
           <div class='w-full shrink-0 grow-0 basis-auto lg:w-6/12 xl:w-8/12'>
             <div class='flex flex-wrap pt-8 lg:pt-0'>
