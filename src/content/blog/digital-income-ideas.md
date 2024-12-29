@@ -3,19 +3,19 @@ title: Make Money Online Ideas
 description: Discover real digital income ideas to make money online. Find legit ways to earn cash on the internet today.
 author: dejuan-jones
 pubDate: 2019-11-04T00:00:00.000Z
-coverSVG: ../../assets/svg/undraw/undraw_scrum_board.svg
-socialImage: ../../assets/gallery/images/ways-to-make-money-online.jpg
+coverSVG: ../../assets/gallery/images/digital-income-online.svg
+socialImage: ../../assets/gallery/images/digital-income-online.jpg
 categories:
   - passive-income-ideas
 tags:
   - opportunities
 ---
 
-If you've been searching for ways to *earn digital income*, you're in good company! The rapid advancement of digital technology has reshaped the job market, leading thousands to leave traditional jobs in pursuit of ideas to *make money online*. In fact, statistics reveal that around 27 million people in the U.S. earned money online in 2023. The COVID-19 pandemic further fueled this shift, with more people exploring alternative income sources as businesses increasingly moved online.
+If you've been searching for ways to earn digital income, you're in good company! The rapid advancement of digital technology has reshaped the job market, leading thousands to leave traditional jobs in pursuit of ideas to *make money online*. In fact, statistics reveal that around 27 million people in the U.S. earned money online in 2023. The COVID-19 pandemic further fueled this shift, with more people exploring alternative income sources as businesses increasingly moved online.
 
 ## Make Money Online Ideas
 
-With the digital economy booming, there are countless opportunities for everyday people to generate income online. From making money on YouTube to distributing software products, options are as diverse as they are promising. Here are some of the most popular ways to tap into the growing digital economy;
+With the digital economy booming, there are countless opportunities for everyday people to generate income online. From making money on YouTube to distributing software products, options are as diverse as they are promising. Here are some of the most popular ways to tap into the growing digital economy:
 
 ### Monetize a Website
 
