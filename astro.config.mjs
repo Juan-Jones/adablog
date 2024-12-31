@@ -24,41 +24,16 @@ export default defineConfig({
   build: {
     format: 'directory', // Ensures clean URLs (no index.html in the route)
   },
-  integrations: [
-    icon(),
-    tailwind(),
-    sitemap({
-      filter: (page) => {
-        // Match paginated paths like dejuan-jones/1, blog/1, etc.
-        const isPaginatedPath = page.match(/\/(dejuan-jones|blog)\/\d+\/?$/);
-        const excludedPaths = [
-          'https://earnonlinemoney.org/search/',
-          'https://earnonlinemoney.org/privacy-policy/',
-          'https://earnonlinemoney.org/404/',
-        ];
-        return !isPaginatedPath && !excludedPaths.includes(page);
-      },
-    }),
-    mdx(),
-    alpinejs(),
-    robotsTxt(),
-    markdoc(),
-  ],
+  integrations: [icon(), tailwind(), sitemap(), mdx(), alpinejs(), robotsTxt(), markdoc()],
   markdown: {
     extendDefaultPlugins: true,
-    remarkPlugins: [
-      remarkReadingTime,
-      remarkMath,
-      remarkPlantUML,
-      remarkDiagram,
-      remarkEmoji,
-    ],
+    remarkPlugins: [remarkReadingTime, remarkMath, remarkPlantUML, remarkDiagram, remarkEmoji],
     rehypePlugins: [rehypeKatex],
     shikiConfig: {
       theme: 'github-light',
       langs: [],
       // Enable word wrap to prevent horizontal scrolling
-      wrap: true,
+      wrap: true
     },
   },
   scopedStyleStrategy: "where",
