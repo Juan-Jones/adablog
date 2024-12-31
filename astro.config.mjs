@@ -28,7 +28,13 @@ export default defineConfig({
   integrations: [
     icon(),
     tailwind(),
-    sitemap(),
+    sitemap({
+      entryLimit: 50000, // Forces a single sitemap unless more than 50,000 URLs exist
+      filter: (url) => !url.includes('/search') 
+                   && !url.includes('/privacy-policy') 
+                   && !url.includes('/404')
+                   && !url.includes('/blog/page/'),
+    }),
     mdx(),
     alpinejs(),
     robotsTxt(),

@@ -38,7 +38,7 @@ Accessing your CJ Affiliate account is crucial for managing marketing activities
 
 ### How to Find Affiliate Programs on CJ Affiliate
 
-CJ Affiliate, [a.k.a Commission Junction](#what-is-commission-junction), provides a robust platform for connecting publishers with a vast array of affiliate programs. Whether you're a seasoned marketer or just starting, finding [the best affiliate programs](/blog/best-affiliate-programs) on CJ Affiliate can significantly impact your earnings. Here’s a step-by-step guide to help you navigate and select the best programs for your niche.
+CJ Affiliate provides a robust platform for connecting publishers with a vast array of affiliate programs. Whether you're a seasoned marketer or just starting, finding [the best affiliate programs](/blog/best-affiliate-programs) on CJ Affiliate can significantly impact your earnings. Here’s a step-by-step guide to help you navigate and select the best programs for your niche.
 
 ### Setting Up Your Account
 

@@ -69,4 +69,4 @@ AR is transforming the online shopping experience by allowing consumers to visua
 
 #### Limitless Possibilities of Electronic Commerce
 
-Ecommerce is more than a convenient shopping method; it is a transformative force reshaping the global economy. By leveraging multiple e-commerce channels and understanding the intricacies of [how does e-commerce work](#how-does-e-commerce-work), businesses can unlock vast opportunities for growth and innovation. As e-commerce continues to expand, its global impact will only grow, driving progress and connecting
+Ecommerce is more than a convenient shopping method; it is a transformative force reshaping the global economy. By leveraging multiple e-commerce channels and understanding the intricacies of how does e-commerce work, businesses can unlock vast opportunities for growth and innovation. As e-commerce continues to expand, its global impact will only grow, driving progress and connecting

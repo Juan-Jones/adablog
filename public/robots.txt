@@ -3,4 +3,4 @@ User-agent: *
 Disallow:
 
 # Sitemap location
-Sitemap: https://earnonlinemoney.org/sitemap.xml
+Sitemap: https://earnonlinemoney.org/sitemap-index.xml
