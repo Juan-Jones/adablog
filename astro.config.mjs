@@ -13,7 +13,6 @@ import { remarkDiagram } from './remark-plugins/remark-diagram.mjs';
 import icon from "astro-icon";
 import markdoc from "@astrojs/markdoc";
 
-// https://astro.build/config
 export default defineConfig({
   site: 'https://earnonlinemoney.org',
   vite: {
@@ -29,11 +28,16 @@ export default defineConfig({
     icon(),
     tailwind(),
     sitemap({
-      entryLimit: 50000, // Forces a single sitemap unless more than 50,000 URLs exist
-      filter: (url) => !url.includes('/search') 
-                   && !url.includes('/privacy-policy') 
-                   && !url.includes('/404')
-                   && !url.includes('/blog/page/'),
+      filter: (page) => {
+        // Match paginated paths like dejuan-jones/1, blog/1, etc.
+        const isPaginatedPath = page.match(/\/(dejuan-jones|blog)\/\d+\/?$/);
+        const excludedPaths = [
+          'https://earnonlinemoney.org/search/',
+          'https://earnonlinemoney.org/privacy-policy/',
+          'https://earnonlinemoney.org/404/',
+        ];
+        return !isPaginatedPath && !excludedPaths.includes(page);
+      },
     }),
     mdx(),
     alpinejs(),
