@@ -52,6 +52,6 @@ If you have not opted out of third-party ad serving, the cookies of other third-
 
 - Notify your site visitors of the third-party vendors and ad networks serving ads on your site.
 - Provide links to the appropriate vendor and ad network websites.
-- Inform your users that they may visit those websites to opt out of the use of cookies for personalized advertising (if the vendor or ad network offers this capability). Alternatively, you can direct users to opt out of some third-party vendors uses of cookies for personalized advertising by visiting [aboutads](https://www.aboutads.info).
+- Inform your users that they may visit those websites to opt out of the use of cookies for personalized advertising (if the vendor or ad network offers this capability). Alternatively, you can direct users to opt out of some third-party vendors uses of cookies for personalized advertising by visiting [aboutads](https://youradchoices.com).
 
 Because publisher sites and laws across countries vary, we’re unable to suggest specific privacy policy language. However, you may wish to review resources such as the Network Advertising Initiative for guidance on drafting a privacy policy. For additional details regarding cookie consent notices, please refer to cookiechoices.org.

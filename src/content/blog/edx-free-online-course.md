@@ -45,7 +45,7 @@ Additionally, edX offers MicroMasters programs, professional certificates, and e
 
 ### edX Affiliate Program
 
-Do you want to [get paid teaching courses](/blog/make-money-teaching-online-courses)? The [edX Affiliate Program](https://www.edx.org/affiliate-program/) offers an opportunity for individuals and businesses to earn commissions by promoting high-quality online courses from top universities and institutions. Affiliates can share links to edX’s vast catalog, which includes topics ranging from data science to business management, and earn a percentage for every successful referral. With competitive commission rates and a trusted brand, the program is an excellent choice for those looking to monetize their content while promoting accessible, world-class education. Affiliates also gain access to marketing resources and performance tracking tools to maximize their earnings.
+Do you want to [get paid teaching courses](/blog/make-money-teaching-online-courses)? The [edX Affiliate Program](https://www.edx.org/affiliate-program) offers an opportunity for individuals and businesses to earn commissions by promoting high-quality online courses from top universities and institutions. Affiliates can share links to edX’s vast catalog, which includes topics ranging from data science to business management, and earn a percentage for every successful referral. With competitive commission rates and a trusted brand, the program is an excellent choice for those looking to monetize their content while promoting accessible, world-class education. Affiliates also gain access to marketing resources and performance tracking tools to maximize their earnings.
 
 ### Real-Life Impact
 

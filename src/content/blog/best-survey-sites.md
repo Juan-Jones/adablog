@@ -29,11 +29,11 @@ There are several survey sites online. However, the best survey sites provide us
 
 ### 1. Swagbucks.com
 
-Known for its versatility and numerous earning opportunities [Swagbucks](https://www.swagbucks.com/) is one of the most popular survey sites. Beyond surveys, users can earn rewards by watching videos, shopping online, and even playing games.
+Known for its versatility and numerous earning opportunities [Swagbucks](https://www.swagbucks.com) is one of the most popular survey sites. Beyond surveys, users can earn rewards by watching videos, shopping online, and even playing games.
 
 ### 2. SurveyJunkie.com
 
-With well over 10 million members [SurveyJunkie](https://www.surveyjunkie.com/) focuses solely on surveys, making it ideal for those who enjoy sharing their opinions. The platform is straightforward, ensuring users can quickly get started.
+With well over 10 million members [SurveyJunkie](https://www.surveyjunkie.com) focuses solely on surveys, making it ideal for those who enjoy sharing their opinions. The platform is straightforward, ensuring users can quickly get started.
 
 ### 3. InboxDollars.com
 
@@ -57,7 +57,7 @@ Vindale Research pays members five dollars for referrals. The referral must comp
 
 ### 8. SurveyMonkey.com
 
-[Surveymonkey](https://www.surveymonkey.com/) has an exclusive process for referrals. You can receive five hundred dollars for qualifying referrals with SurveyMonkey. This site has a free version and a paid version where members can complete offers.
+[Surveymonkey](https://www.surveymonkey.com) has an exclusive process for referrals. You can receive five hundred dollars for qualifying referrals with SurveyMonkey. This site has a free version and a paid version where members can complete offers.
 
 ### 9. OpinionOutpost.com
 
@@ -65,7 +65,7 @@ Opinion Outpost is one of the best survey sites. This market research panel pays
 
 ### 10. OneOpinion.com
 
-OneOpinion has been around since 2011. And, they have maintained healthy relationships with customers and members. Most people have nothing but good things to say about [OneOpinion](https://www.oneopinion.com/). Here you can get paid to share your opinion, sample products, and complete offers.
+OneOpinion has been around since 2011. And, they have maintained healthy relationships with customers and members. Most people have nothing but good things to say about [OneOpinion](https://www.oneopinion.com). Here you can get paid to share your opinion, sample products, and complete offers.
 
 ### FAQ
 

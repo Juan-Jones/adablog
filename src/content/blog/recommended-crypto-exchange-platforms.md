@@ -37,7 +37,7 @@ Established as a cryptocurrency exchange platform, [Binance](https://www.binance
 
 ### Bitfinex.com
 
-Known for its advanced trading features and high liquidity, [Bitfinex](https://www.bitfinex.com/) caters primarily to professional traders. It offers a wide range of trading pairs and supports multiple fiat currencies. Bitfinex.com also provides margin trading and lending services, allowing users to earn interest on their digital assets.
+Known for its advanced trading features and high liquidity, [Bitfinex](https://www.bitfinex.com) caters primarily to professional traders. It offers a wide range of trading pairs and supports multiple fiat currencies. Bitfinex.com also provides margin trading and lending services, allowing users to earn interest on their digital assets.
 
 ### Coinbase.com
 
@@ -53,7 +53,7 @@ Gemini is a crypto platform that was founded in  and is based in New York. It is
 
 ### Kraken.com
 
-Headquartered in San Francisco, [Kraten](https://kraten.com/) stands as one of the oldest and most established cryptocurrency platforms. It hosts a multitude of digital assets, including Dogecoin (DOGE) and Stellar Lumens (XLM).
+Headquartered in San Francisco, [Kraten](https://kraten.com) stands as one of the oldest and most established cryptocurrency platforms. It hosts a multitude of digital assets, including Dogecoin (DOGE) and Stellar Lumens (XLM).
 
 ### Robinhood.com
 

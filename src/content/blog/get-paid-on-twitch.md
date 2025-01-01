@@ -35,7 +35,7 @@ Bits are a virtual currency fans use to cheer for their favorite streamers. Each
 
 ### 2. Twitch Partner Program
 
-For streamers who’ve built a substantial following, the [Twitch Partner Program](https://www.twitch.tv/p/partners/) offers even more benefits. Partners receive the same monetization options as Affiliates but with improved revenue splits and additional perks like ad revenue sharing.
+For streamers who’ve built a substantial following, the [Twitch Partner Program](https://www.twitch.tv/p/partners) offers even more benefits. Partners receive the same monetization options as Affiliates but with improved revenue splits and additional perks like ad revenue sharing.
 
 #### Ad Revenue
 

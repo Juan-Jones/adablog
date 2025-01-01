@@ -42,8 +42,8 @@ Choosing the right platform is critical to your crowdfunding campaign’s succes
 When it comes to crowdfunding, choosing the right platform is key to maximizing visibility, engagement, and fundraising success. Here are some of the top crowdfunding sites:
 
 1. Kickstarter: Known for creative projects, Kickstarter is an all-or-nothing platform, meaning you only get the funds if you meet your goal.
-2. Indiegogo: More flexible than Kickstarter, [Indiegogo](https://www.indiegogo.com/) offers both fixed and flexible funding options, allowing you to keep whatever you raise.
-3. GoFundMe: Ideal for personal causes and charity, [GoFundMe](https://www.gofundme.com/) doesn't require a fundraising goal to be met to receive funds.
+2. Indiegogo: More flexible than Kickstarter, [Indiegogo](https://www.indiegogo.com) offers both fixed and flexible funding options, allowing you to keep whatever you raise.
+3. GoFundMe: Ideal for personal causes and charity, [GoFundMe](https://www.gofundme.com) doesn't require a fundraising goal to be met to receive funds.
 4. Patreon: A subscription-based platform perfect for content creators who receive ongoing support from their fans.
 5. SeedInvest: For entrepreneurs seeking equity financing, SeedInvest offers a curated platform connecting accredited investors with high-potential startups and businesses.
 

@@ -71,7 +71,7 @@ Relying solely on Adsense can be risky due to potential changes in ad performanc
 
 ### Adsense Tips
 
-First, you will need to [sign up for a Google Adsense](https://adsense.google.com/intl/en_us/start/) account, which is free. Make sure that you sign up for the Ad-sense feature. Next, you’ll need to verify your mailing address, as well as other personal information. This is an unconstrained process. The team actually guides you through everything step by step. If you have problems, you can also visit the help center or blog.
+First, you will need to [sign up for a Google Adsense](https://adsense.google.com/intl/en_us/start) account, which is free. Make sure that you sign up for the Ad-sense feature. Next, you’ll need to verify your mailing address, as well as other personal information. This is an unconstrained process. The team actually guides you through everything step by step. If you have problems, you can also visit the help center or blog.
 
 ### Staying Updated with Adsense Changes
 

@@ -68,7 +68,7 @@ Throughout your writing journey, there will be days when the words just won't co
 
 ### Publish Your Material
 
-Decide where you want to publish your e-book. Popular options include Amazon Kindle Direct Publishing [KDP](https://kdp.amazon.com/), Apple Books, and Google Play Books. Each platform has its own set of guidelines and benefits, so choose the one that best fits your goals. I chose Amazon KDP for its extensive reach and ease of use. The platform's robust marketing tools and vast audience made it an ideal choice for my first e-book.
+Decide where you want to publish your e-book. Popular options include Amazon Kindle Direct Publishing [KDP](https://kdp.amazon.com), Apple Books, and Google Play Books. Each platform has its own set of guidelines and benefits, so choose the one that best fits your goals. I chose Amazon KDP for its extensive reach and ease of use. The platform's robust marketing tools and vast audience made it an ideal choice for my first e-book.
 
 Pricing your e-book can be tricky. Research similar e-books in your genre to see what they're selling for and consider your target audience's willingness to pay. You can also experiment with different price points to see what works best. I started with a lower price to attract initial readers and gather reviews. Once I had a few positive reviews, I gradually increased the price.
 

@@ -110,7 +110,7 @@ If you have time on your hands, you can always find a job under the gigs section
 
 ### 20. Start Trading Products
 
-Have you ever heard the [red paperclip story](https://en.wikipedia.org/wiki/One_red_paperclip/)? This story is about Kyle MacDonald. A man who started by trading a red paperclip on Craigslist and ended up with a farmhouse. He achieved it in fourteen transactions!
+Have you ever heard the [red paperclip story](https://en.wikipedia.org/wiki/One_red_paperclip)? This story is about Kyle MacDonald. A man who started by trading a red paperclip on Craigslist and ended up with a farmhouse. He achieved it in fourteen transactions!
 
 #### Paperclip to Farm House Story
 

@@ -28,7 +28,7 @@ Reliable customer service is essential for addressing any issues that may arise 
 
 ### Additional Features and Services
 
-Many registrars offer a range of additional features that can add value to your domain purchase. These might include domain privacy protection, which masks your personal information in the WHOIS database, reducing spam and protecting your privacy. Other useful features can include email forwarding, web hosting packages, [SSL certificates](https://ssls.sjv.io/c/3661625/984063/9312/), and website builders. Evaluating these extras can help you determine which registrar offers the best overall package for your needs.
+Many registrars offer a range of additional features that can add value to your domain purchase. These might include domain privacy protection, which masks your personal information in the WHOIS database, reducing spam and protecting your privacy. Other useful features can include email forwarding, web hosting packages, [SSL certificates](https://ssls.sjv.io/c/3661625/984063/9312), and website builders. Evaluating these extras can help you determine which registrar offers the best overall package for your needs.
 
 ### Research Reputation and Reliability
 
@@ -41,7 +41,7 @@ Choosing the right domain registrar is crucial for establishing a strong online 
 * GoDaddy: One of the largest and most recognizable registrars, GoDaddy offers a comprehensive range of services including domain registration, web hosting, and professional email.
 * Web.com: Catering to both beginners and experienced users, Web.com provides domain registration along with website building tools and digital marketing services.
 * Google Domains: Offering transparent pricing and seamless integration with other Google services, Google Domains is an excellent choice for those seeking simplicity and reliability.
-* Domain.com: As the name suggests, [Domain.com](https://domain.mno8.net/4P421Z/) specializes in domain registration with a wide selection of domain extensions to choose from
+* Domain.com: As the name suggests, [Domain.com](https://domain.mno8.net/4P421Z) specializes in domain registration with a wide selection of domain extensions to choose from
 
 ### Specialized Domain Marketplaces
 

@@ -35,7 +35,7 @@ Before you can successfully [begin your freelance career](/blog/how-to-start-fre
 
 To start on Fiverr, you need to create an account. Here’s how:
 
-1. Visit the Fiverr Website: Go to [Fiverr](https://www.fiverr.com/) and click on the "Join" button at the top right corner.
+1. Visit the Fiverr Website: Go to [Fiverr](https://www.fiverr.com) and click on the "Join" button at the top right corner.
 2. Sign Up: You can sign up using your email address, Google, Facebook, or Apple account.
 3. Complete Your Profile: Fill in your profile information, including your name, profile picture, and a brief description of your skills and experience.
 

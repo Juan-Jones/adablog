@@ -63,11 +63,11 @@ The e-learning industry has seen massive growth, making it an ideal time to deve
 
 ### Work with Taskrabbit
 
-TaskRabbit can be a lucrative opportunity to earn extra income with relatively low startup costs. Working with TaskRabbit offers flexibility and diverse opportunities. [TaskRabbit](https://www.taskrabbit.com/) connects freelancers with local tasks ranging from handyman services to virtual assistance. Understanding the platform, maintaining quality service, and managing your schedule efficiently can lead to a successful experience as a Tasker.
+TaskRabbit can be a lucrative opportunity to earn extra income with relatively low startup costs. Working with TaskRabbit offers flexibility and diverse opportunities. [TaskRabbit](https://www.taskrabbit.com) connects freelancers with local tasks ranging from handyman services to virtual assistance. Understanding the platform, maintaining quality service, and managing your schedule efficiently can lead to a successful experience as a Tasker.
 
 ### Provide Language Tutoring Services
 
-Interested in sharing your language skills? Providing language tutoring services is a rewarding way to help others while earning extra income. There's a growing demand for online language tutors worldwide. According to recent data, the global online tutoring market is expected to surpass 120 billion U.S.D. by 2026, highlighting the lucrative potential in education services. Platforms like [iTalki](https://www.italki.com/) and Verbling connect tutors with students seeking personalized language lessons, offering flexibility in scheduling and lesson rates. 
+Interested in sharing your language skills? Providing language tutoring services is a rewarding way to help others while earning extra income. There's a growing demand for online language tutors worldwide. According to recent data, the global online tutoring market is expected to surpass 120 billion U.S.D. by 2026, highlighting the lucrative potential in education services. Platforms like [iTalki](https://www.italki.com) and Verbling connect tutors with students seeking personalized language lessons, offering flexibility in scheduling and lesson rates. 
 
 ### Sell Products on Etsy
 
@@ -83,7 +83,7 @@ Launching an app involves a combination of affordable and more significant inves
 
 ### Extend Transcription Services
 
-Starting a transcription venture requires minimal initial investment. You might need a computer or a laptop with a reliable internet connection. Additionally, some transcription platforms may have registration fees or software costs, although many offer free sign-ups. Transcribe audio or video files into written form. You can extend transcription services on platforms like Rev.com or [TranscribeMe](https://www.transcribeme.com/).
+Starting a transcription venture requires minimal initial investment. You might need a computer or a laptop with a reliable internet connection. Additionally, some transcription platforms may have registration fees or software costs, although many offer free sign-ups. Transcribe audio or video files into written form. You can extend transcription services on platforms like Rev.com or [TranscribeMe](https://www.transcribeme.com).
 
 ### Earn Cash on Twitch
 

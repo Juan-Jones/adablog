@@ -38,7 +38,7 @@ export { default as DefaultImage } from './assets/gallery/images/digital-income.
 
 export const NavigationLinks = [
   { name: 'Home', href: '' },
-  { name: 'Earn Digital Income', href: 'blog/digital-income-ideas/' },
+  { name: 'Earn Digital Income', href: 'blog/digital-income-ideas' },
   { name: 'Creative Side Hustles', href: 'blog/creative-side-hustles' },
   { name: 'Passive Income Investments', href: 'blog/passive-income-investments' },
   { name: 'Blog', href: 'blog' },

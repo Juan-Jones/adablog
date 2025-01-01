@@ -26,11 +26,11 @@ Transactional landing page – the transactional landing page contains informati
 
 Option #1 (Purchase a landing page) In my opinion purchasing a landing page is the best option simply because you have more control over your content. You can tweak the theme, customize the background, edit code, and much more. Whereas, you have no control over a free landing page. All in all, you have a better chance to influence consumers when you purchase a site. If you are on a limited budget, I suggest purchasing a site through Bluehost.
 
-Option #2 (Get a free landing page) If you don’t want to pay for a landing page. You can create a free landing page on [Linktree](https://linktr.ee/) Linktree is a freemium social media landing page. You can use this platform to post your affiliate links, products links, or profile links. Here you can post whatever links you desire!
+Option #2 (Get a free landing page) If you don’t want to pay for a landing page. You can create a free landing page on [Linktree](https://linktr.ee) Linktree is a freemium social media landing page. You can use this platform to post your affiliate links, products links, or profile links. Here you can post whatever links you desire!
 
 ### 2. Create a Pinterest Business Account
 
-If you want to grow your Pinterest page quickly, it’s essential to [create a Pinterest business account](https://www.pinterest.com/business/). Not only does the business account help you grow faster, but it gives you access to valuable tools like analytics and ads. Do not forget to include the link to your landing page on your Pinterest business account profile.
+If you want to grow your Pinterest page quickly, it’s essential to [create a Pinterest business account](https://www.pinterest.com/business). Not only does the business account help you grow faster, but it gives you access to valuable tools like analytics and ads. Do not forget to include the link to your landing page on your Pinterest business account profile.
 
 Heres a post that can help, How to Use [Social Channels for Business](/blog/using-social-media-for-business).
 
