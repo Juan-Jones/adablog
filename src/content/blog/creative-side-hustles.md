@@ -30,7 +30,7 @@ Most people are skeptical when they hear the term network marketing or multi-lev
 
 ### 2. Place Ads on Your Car
 
-If you drive, why not [Deliver for Instacart](/blog/deliver-for-instacart)?Delivering for Instacart as a side hustle offers flexibility and a chance to earn extra income on your schedule. By shopping for and delivering groceries, you can capitalize on the growing demand for convenience, all while setting your own hours and working as much or as little as you like.
+If you drive, why not [Deliver for Instacart](/blog/deliver-for-instacart)? Delivering for Instacart as a side hustle offers flexibility and a chance to earn extra income on your schedule. By shopping for and delivering groceries, you can capitalize on the growing demand for convenience, all while setting your own hours and working as much or as little as you like.
 
 ### 3. Accept Donations
 

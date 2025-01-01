@@ -7,7 +7,7 @@ socialImage: ../../assets/gallery/images/best-online-course.jpg
 categories:
   - courses
 tags:
-  - eLearning
+  - elearning
 ---
 
 In today's fast-paced world, continuous learning has become essential for personal and professional growth. Fortunately, the rise of online course platforms has made education more accessible than ever before. Whether you want to master a new skill or advance your career, online learning platforms offer a wealth of opportunities.

@@ -155,7 +155,7 @@ Step #2 (Create a TikTok account): TikTok marketing is effective. Use snaptik.ap
 
 Step #3 (Create an Instagram account): Instagram is a video-sharing network like TikTok. Repost content using the same strategy as TikTok.
 
-If you need additional resources dont hesitate reading our exclusive [marketing tips for social media](/blog/social-media-marketing-tips) along with [marketing tools for social media](/blog/top-social-media-tools).
+If you need additional resources dont hesitate reading our exclusive [marketing tips for social media](/blog/social-media-marketing-tips).
 
 #### FAQs
 

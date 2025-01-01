@@ -1,13 +1,13 @@
 ---
 title: E-learning Course Creation
-description: Online courses creation step-by-step guide. Master eLearning strategies, engage learners, and launch your course successfully.
+description: Online courses creation step-by-step guide. Master e-learning strategies, engage learners, and launch your course successfully.
 author: dejuan-jones
 pubDate: 2019-10-20T00:00:00.000Z
 socialImage: ../../assets/gallery/images/create-online-courses.jpg
 categories:
   - courses
 tags:
-  - eLearning
+  - elearning
 ---
 
 Online learning and education continues to grow at a record setting pace. According to Global Market Insights, the e-learning market is expected to surpass 375 billion U.S.D. by 2026. This surge is driven by the flexibility, accessibility, and variety of online courses available to learners worldwide. For creators, this presents an incredible opportunity to reach a global audience and .

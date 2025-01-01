@@ -22,11 +22,11 @@ The amount of money YouTubers make can vary dramatically based on their subscrib
 
 * Earnings of Small YouTubers: Small YouTubers, those with less than 10,000 subscribers, often find it challenging to make substantial earnings. However, with consistent growth and engagement, even smaller channels can start earning a respectable income. According to a survey by Influencer Marketing Hub, YouTubers with 1,000 to 10,000 subscribers can earn an average of fifteen hundred to four thousand dollars per month, primarily from ad revenue and sponsorships.
 * Mid-Tier YouTubers’ Income: For YouTubers with 10,000 to 100,000 subscribers, the earnings increase significantly. These channels are attractive to sponsors and can generate higher ad revenue due to increased viewership. On average, mid-tier YouTubers can earn between four thousand to fifteen thousand dollars per month. This income can be further boosted by integrating additional revenue streams like merchandise and affiliate marketing.
-* Top YouTubers’ Earnings: The top-tier YouTubers, those with millions of subscribers, can earn staggering amounts of money. According to Forbes, the highest-paid YouTuber in 2020, Ryan Kaji, earned approximately 29.5 million U.S.D. from his channel, Ryan’s World. While not every top YouTuber will reach these heights, channels with millions of subscribers can easily make six-figure incomes annually.
+* Top YouTube Earners: The top-tier YouTubers, those with millions of subscribers, can earn staggering amounts of money. According to Forbes, the highest-paid YouTuber in 2020, Ryan Kaji, earned approximately 29.5 million U.S.D. from his channel, Ryan’s World. While not every top YouTuber will reach these heights, channels with millions of subscribers can easily make six-figure incomes annually.
 
 ## Factors Influencing YouTuber Earnings
 
-There are several factors that determine how publisher’s [make money on YouTube](/blog/make-money-on-youtube). How many subscribers does the publisher have? How much traffic does the channel video is generating? Publishers who have been at it for a while master methods to increase their revenue over the years. Below are 5 factors that impact a publisher’s income;
+There are several factors that determine a publishers earnings, including; the number of subscribers, traffic, and experience. More importantly, the monetization methods, i.e., affiliate marketing, utilizing Google Adsense, selling products from [ecommerce stores](/blog/launch-an-ecommerce-store) and so on. Below are 5 additional factors that impact a publisher’s income;
 
 ### Niche and Content Type
 

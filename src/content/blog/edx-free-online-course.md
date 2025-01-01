@@ -7,7 +7,7 @@ socialImage: ../../assets/gallery/images/edx-online-course.jpg
 categories:
   - courses
 tags:
-  - eLearning
+  - elearning
 ---
 
 In todays world, education is no longer confined to traditional classrooms. The advent of the internet has democratized learning, making high-quality educational resources accessible to anyone with an internet connection. One platform leading this charge is *edX*, a massive open online course (MOOC) provider that offers courses from top universities and institutions around the globe. While edX provides a variety of paid certificates and degree programs, it also boasts an extensive catalog of *free courses*, enabling learners from all walks of life to acquire new skills and knowledge without financial barriers.

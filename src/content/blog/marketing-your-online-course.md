@@ -7,7 +7,7 @@ socialImage: ../../assets/gallery/images/online-course-promotion.jpg
 categories:
   - courses
 tags:
-  - eLearning
+  - elearning
 ---
 
 Creating an online course is a significant achievement, but the real challenge lies in marketing it effectively to reach your target audience. With countless courses available online, standing out can be difficult.
