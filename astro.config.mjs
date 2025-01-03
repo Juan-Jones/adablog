@@ -15,6 +15,7 @@ import markdoc from "@astrojs/markdoc";
 
 export default defineConfig({
   site: 'https://earnonlinemoney.org',
+  base: '/',
   vite: {
     ssr: {
       external: ['svgo'],

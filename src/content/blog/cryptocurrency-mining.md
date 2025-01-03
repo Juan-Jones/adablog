@@ -10,7 +10,7 @@ tags:
   - crypto
 ---
 
-Thinking about investing in *cryptocurrency mining*? If so, great, this crypto mining [investment guide](/blog/introduction-to-investing) we'll walk you through the fundamentals of cryptocurrency mining, the equipment you'll need, and tips for optimizing your mining operations. With the right strategy and dedication, you can turn your computer into a money-making machine.
+Thinking about investing in *cryptocurrency mining*? If so, great, this crypto mining [investment guide](introduction-to-investing) we'll walk you through the fundamentals of cryptocurrency mining, the equipment you'll need, and tips for optimizing your mining operations. With the right strategy and dedication, you can turn your computer into a money-making machine.
 
 ## What is Cryptocurrency Mining?
 
@@ -20,7 +20,7 @@ Mining Pools Vs Self Mining: You can mine on your own, or you can join a mining 
 
 ## Cryptocurrency Investments
 
-Yes, mining can be a [profitable cryptocurrency investment](/blog/cryptocurrency-investment-guide), but success hinges on various factors. Factors like the cost of electricity, the efficiency of mining equipment, and fluctuations in cryptocurrency prices significantly impact profitability.
+Yes, mining can be a [profitable cryptocurrency investment](cryptocurrency-investment-guide), but success hinges on various factors. Factors like the cost of electricity, the efficiency of mining equipment, and fluctuations in cryptocurrency prices significantly impact profitability.
 
 Before diving in, thorough research is crucial. Assessing the current market conditions, calculating potential costs, and understanding the technical aspects of mining are essential steps. Additionally, staying updated on regulatory changes and technological advancements is vital for making informed decisions.
 
@@ -52,7 +52,7 @@ Efficiency is key to maximizing your mining profits. By optimizing your mining o
 
 ### Exploring Opportunities for Passive Income
 
-In addition to actively mining cryptocurrencies, there are [opportunities to earn passive income](/blog/passive-income-investments) in the crypto space. One such method is through staking, where users lock up their coins to support the operations of a blockchain network and earn rewards in return.
+In addition to actively mining cryptocurrencies, there are [opportunities to earn passive income](passive-income-investments) in the crypto space. One such method is through staking, where users lock up their coins to support the operations of a blockchain network and earn rewards in return.
 
 * Crypto Mine Flipping: Purchase on one exchange then sell it on another.
 * Mine Trading: Find a coin that is in high demand and mine it using a mining ring.

@@ -14,7 +14,7 @@ Creating an online course is a significant achievement, but the real challenge l
 
 ## How to Market Your Online Course
 
-Creating online courses involves curating educational content into structured modules that cater to specific learning objectives. Effective [online course creation](/blog/how-to-create-online-courses) requires understanding the target audience and designing materials that are engaging and informative.
+Creating online courses involves curating educational content into structured modules that cater to specific learning objectives. Effective [online course creation](how-to-create-online-courses) requires understanding the target audience and designing materials that are engaging and informative.
 
 ### Identify Your Ideal Student
 
@@ -80,7 +80,7 @@ Promote your webinars through your email list, social media, and partnerships wi
 
 ### Monetizing Online Courses
 
-There are several ways to [make money with online courses](/blog/make-money-teaching-online-courses). You can monetize online courses through various strategies such as affiliate marketing, subscription models, one-time purchases, and offering certification upon completion. Providing value through high-quality content and ongoing support helps in retaining students and generating revenue.
+There are several ways to [make money with online courses](make-money-teaching-online-courses). You can monetize online courses through various strategies such as affiliate marketing, subscription models, one-time purchases, and offering certification upon completion. Providing value through high-quality content and ongoing support helps in retaining students and generating revenue.
 
 ### Tracking Key Metrics
 

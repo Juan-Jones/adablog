@@ -26,7 +26,7 @@ The amount of money YouTubers make can vary dramatically based on their subscrib
 
 ## Factors Influencing YouTuber Earnings
 
-There are several factors that determine a publishers earnings, including; the number of subscribers, traffic, and experience. More importantly, the monetization methods, i.e., affiliate marketing, utilizing Google Adsense, selling products from [ecommerce stores](/blog/launch-an-ecommerce-store) and so on. Below are 5 additional factors that impact a publisher’s income;
+There are several factors that determine a publishers earnings, including; the number of subscribers, traffic, and experience. More importantly, the monetization methods, i.e., affiliate marketing, utilizing Google Adsense, selling products from ecommerce stores and so on. Below are 5 additional factors that impact a publisher’s income;
 
 ### Niche and Content Type
 
@@ -34,7 +34,7 @@ The niche a YouTuber operates in can significantly impact earnings. Some niches,
 
 ### Audience Demographics
 
-Whether you're [starting a vlog](/blog/how-to-start-a-vlog) or a tutorial channel pleasing your audience is crucial. Every YouTubers journey begins with the finding creating content for their target audience. Hence, starting a YouTube channel with emphasis on crafting compelling content that resonates with the audience is the cornerstone of success.
+Whether you're [starting a vlog](how-to-start-a-vlog) or a tutorial channel pleasing your audience is crucial. Every YouTubers journey begins with the finding creating content for their target audience. Hence, starting a YouTube channel with emphasis on crafting compelling content that resonates with the audience is the cornerstone of success.
 
 The key lies not only in creating content but also in fostering a community—a tribe of loyal subscribers who resonate with the creator's voice and vision. Through consistency and authenticity, creators forge connections that transcend pixels and screens, anchoring their audience to their journey.
 

@@ -18,7 +18,7 @@ Wheather you are [building a blog site](how-to-make-a-blog), freelancing, or sim
 
 ### Establish a Social Media Presence
 
-If you want to successfully [develop a social media presence](/blog/building-a-social-media-presence), you'll need to establish your business on social networks. This involves setting up profiles, consistently posting relevant content, and engaging with your audience. Here are a few more hints on gaining a social media presence;
+If you want to successfully [develop a social media presence](building-a-social-media-presence), you'll need to establish your business on social networks. This involves setting up profiles, consistently posting relevant content, and engaging with your audience. Here are a few more hints on gaining a social media presence;
 
 * Choose Friendly Platforms: Not all social media platforms are created equal. Identify platforms your target audience frequents the most. For example, LinkedIn is ideal for B2B companies, while Instagram is great for B2C businesses.
 * Complete Your Profiles: Ensure that all your social media profiles are fully completed with up-to-date information.
@@ -35,15 +35,15 @@ Once you've established a presence on social media, the next step is implementin
 * Leverage Influencer Marketing: Collaborate with influencers whose audience matches your target demographic for greater reach.
 * Monitor and Respond: Stay active by promptly addressing comments, messages, and mentions to build trust with your audience.
 
-Implement these [social media marketing tips](/blog/social-media-marketing-tips) to strengthen your online presence and drive results.
+Implement these [social media marketing tips](social-media-marketing-tips) to strengthen your online presence and drive results.
 
 ### Social Media Monetization
 
-Social media platforms offer more than just connectivity and entertainment; they present lucrative opportunities for individuals and businesses to generate income. [Monetizing social media](/blog/social-media-monetization) involves leveraging a platform's features to earn revenue, whether through ads, sponsored posts, affiliate marketing, or selling products directly. This pillar page will delve into various aspects of social media monetization, providing valuable insights and practical tips.
+Social media platforms offer more than just connectivity and entertainment; they present lucrative opportunities for individuals and businesses to generate income. [Monetizing social media](social-media-monetization) involves leveraging a platform's features to earn revenue, whether through ads, sponsored posts, affiliate marketing, or selling products directly. This pillar page will delve into various aspects of social media monetization, providing valuable insights and practical tips.
 
 ### Effective Social Media Tools
 
-Marketplaces are constantly evolving, so should you. Therefore, its essential to utilize the [best social media tools](/blog/top-social-media-tools) to stay ahead of the curve. Below are resources that will help you accomplish your social media goals.
+Marketplaces are constantly evolving, so should you. Therefore, its essential to utilize the [best social media tools](top-social-media-tools) to stay ahead of the curve. Below are resources that will help you accomplish your social media goals.
 
 * Hootsuite: A powerful scheduling tool that lets you manage posts across multiple platforms, track performance, and engage with your audience from one dashboard.
 * Canva: Perfect for creating eye-catching graphics, videos, and other visual content, even if you don’t have design experience.

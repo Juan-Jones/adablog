@@ -16,11 +16,11 @@ Creating content for YouTube is an exciting venture, but turning your passion in
 
 Several years ago, music artists were the main individuals benefiting from YouTube’s platform. Various musicians went from rags to riches overnight because they were able to reach millions on the social video platform. However, the platform has expanded now content creators, advertisers, viewers, marketers and businesses can monetize on the largest social video platform in the world.
 
-Several methods of monetization have been implemented for content creators to benefit from over the past years. YouTube has made several efforts to provide publishers with lucrative [opportunities to earn money online](/blog/digital-income-ideas). This has led to publishers generating more revenue. In fact, many publishers have increased their income from the latest YouTube monetization efforts.
+Several methods of monetization have been implemented for content creators to benefit from over the past years. YouTube has made several efforts to provide publishers with lucrative [opportunities to earn money online](digital-income-ideas). This has led to publishers generating more revenue. In fact, many publishers have increased their income from the latest YouTube monetization efforts.
 
 ## Ways to Make Money on YouTube
 
-[Starting a YouTube channel](/blog/how-to-start-a-youtube-channel) is a fantastic way to turn your passions into profit. By creating engaging content that resonates with viewers, you can easily make money on YouTube. Building a vibrant community around your channel opens doors to additional income streams like merchandise sales and memberships. Additionally, leveraging affiliate marketing can boost your earnings by recommending products you love.
+[Starting a YouTube channel](how-to-start-a-youtube-channel) is a fantastic way to turn your passions into profit. By creating engaging content that resonates with viewers, you can easily make money on YouTube. Building a vibrant community around your channel opens doors to additional income streams like merchandise sales and memberships. Additionally, leveraging affiliate marketing can boost your earnings by recommending products you love.
 
 ### Join the YouTube Partner Program
 
@@ -35,7 +35,7 @@ Once you meet these criteria, you can apply for YPP through the YouTube Studio.
 
 ### Google Ad Revenue
 
-One of the most well-known [google ad monetization strategies](/blog/google-adsense-monetization) is through ad revenue. Ads are displayed before, during, or after your videos, and you earn a portion of the revenue generated from these ads. The amount you earn from ads depends on several factors, including the number of views, the type of ads, and your audience demographics.
+One of the most well-known [google ad monetization strategies](google-adsense-monetization) is through ad revenue. Ads are displayed before, during, or after your videos, and you earn a portion of the revenue generated from these ads. The amount you earn from ads depends on several factors, including the number of views, the type of ads, and your audience demographics.
 
 ### Diversifying with Channel Memberships
 
@@ -79,7 +79,7 @@ Crowdfunding platforms like Patreon, Ko-fi, and Buy Me a Coffee allow fans to su
 
 Affiliate marketing involves promoting products or services and earning a commission for every sale made through your referral link. This can be a highly effective monetization strategy, especially if you regularly review products or provide how-to guides.
 
-* Join Affiliate Programs: Sign up with [top affiliate programs](/blog/best-affiliate-programs) like Amazon Associates, ShareASale, or individual brand affiliate programs.
+* Join Affiliate Programs: Sign up with [top affiliate programs](best-affiliate-programs) like Amazon Associates, ShareASale, or individual brand affiliate programs.
 * Use Referral Links: Include affiliate links in your video descriptions and mention them during your videos.
 * Disclose Affiliations: Be transparent with your audience about your affiliate relationships to maintain trust.
 

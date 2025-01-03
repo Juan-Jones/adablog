@@ -108,9 +108,9 @@ TikTok creators can organize and host digital events, such as virtual concerts, 
 
 Exploring monetization opportunities beyond TikTok can open up a world of potential income streams. Each platform offers unique ways to turn creativity into cash. Here's a look at a few alternatives;
 
-* Facebook Monetization: [Earn Money on Meta](/blog/facebook-monetization) by incorporating ad breaks within video content to earn revenue from short advertisements.
-* Launch a YouTube Channel: [Start a Your Channel](/blog/how-to-start-a-youtube-channel) and and earn money by generating ad revenue from views on your video content.
-* Pinterest Monetization Opportunities: [Earn Money on Pinterest](/blog/make-money-on-pinterest) by designing sponsored pins that highlight brands' products to your audience.
+* Facebook Monetization: [Earn Money on Meta](facebook-monetization) by incorporating ad breaks within video content to earn revenue from short advertisements.
+* Launch a YouTube Channel: [Start a Your Channel](how-to-start-a-youtube-channel) and and earn money by generating ad revenue from views on your video content.
+* Pinterest Monetization Opportunities: [Earn Money on Pinterest](make-money-on-pinterest) by designing sponsored pins that highlight brands' products to your audience.
 
 ### Investing in Cryptocurrency and Digital Assets
 
@@ -118,7 +118,7 @@ With the growing popularity of cryptocurrencies and digital assets, TikTok creat
 
 #### Building a Strong Presence
 
-While not explicitly stated as a requirement, [building a strong presence](/blog/building-a-social-media-presence) on TikTok is crucial for monetization success. Consistently creating high-quality content, engaging with your audience, and growing your follower base are essential steps toward unlocking monetization opportunities.
+While not explicitly stated as a requirement, [building a strong presence](building-a-social-media-presence) on TikTok is crucial for monetization success. Consistently creating high-quality content, engaging with your audience, and growing your follower base are essential steps toward unlocking monetization opportunities.
 
 #### Compliance with Community Guidelines
 

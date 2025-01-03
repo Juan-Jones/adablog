@@ -16,7 +16,7 @@ In the digital era, selecting the right platform for purchasing domain names is 
 
 Domain registrars are organizations accredited by the Internet Corporation for Assigned Names and Numbers (ICANN) to sell domain names. They play a vital role in the domain registration process, providing the necessary tools and support to manage your domain. When selecting a registrar, it's important to consider factors such as pricing, customer service, additional features, and reputation.
 
-*Related*: [Learn How to Flip Domain Names](/blog/flip-domain-names)!
+*Related*: [Learn How to Flip Domain Names](flip-domain-names)!
 
 ### Examine Pricing and Value
 

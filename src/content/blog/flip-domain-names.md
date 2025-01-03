@@ -33,11 +33,11 @@ There are many types of domains, i.e.,, or industry and are easily understandabl
 
 ## How to Make Money Flip Domain Names
 
-Domain flipping is one of the most profitable investments on the Web. When executed properly. Unlike [stocks and bonds](/blog/stocks-vs-bonds) flipping domains enable individuals to earn reasonable profits from a small investment without much effort.
+Domain flipping is one of the most profitable investments on the Web. When executed properly. Unlike [stocks and bonds](stocks-vs-bonds) flipping domains enable individuals to earn reasonable profits from a small investment without much effort.
 
 ## Types of Domain Names
 
-There are many types of domains, i.e.,ine. In 2007 VacationRentals.com sold for 35 million U.S.D. Three years later CarInsurance.com sold for 49.7 million U.S.D. However, in 2019 Voice.com sold for 30 million U.S.D. Hence, selling digital real-estate is one of the [best passive income ideas](/blog/passive-income-investments)! With strategic investment decisions and effective marketing strategies, you can capitalize on the booming online marketplace to generate substantial income streams. Below we will explore how to attain digital real-estate step-by-step:
+There are many types of domains, i.e.,ine. In 2007 VacationRentals.com sold for 35 million U.S.D. Three years later CarInsurance.com sold for 49.7 million U.S.D. However, in 2019 Voice.com sold for 30 million U.S.D. Hence, selling digital real-estate is one of the [best passive income ideas](passive-income-investments)! With strategic investment decisions and effective marketing strategies, you can capitalize on the booming online marketplace to generate substantial income streams. Below we will explore how to attain digital real-estate step-by-step:
 
 ### 1. Search for Profitable Domain Names
 
@@ -49,7 +49,7 @@ Once you've identified potential domains, evaluating their worth is the next ste
 
 ### 3. Buy Your Domain Name
 
-Ready to [buy your domain name](/blog/how-to-buy-domain-names)? There are several hosting companies on the internet offering inexpensive domain names. You can purchase a reasonable domain name anywhere between eight and two hundred dollars. Looking to register your domain name? Here are three top platforms you should consider:
+Ready to [buy your domain name](how-to-buy-domain-names)? There are several hosting companies on the internet offering inexpensive domain names. You can purchase a reasonable domain name anywhere between eight and two hundred dollars. Looking to register your domain name? Here are three top platforms you should consider:
 
 * [Bluehost](https://bluehost.sjv.io/c/3661625/1749331/11352): Known for its reliable web hosting services, also offers domain registration with straightforward pricing and excellent customer support.
 * GoDaddy: One of the largest domain registrars globally, GoDaddy offers a wide range of services including domain registration, web hosting, and website building tools.

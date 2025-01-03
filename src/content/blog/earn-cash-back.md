@@ -16,7 +16,7 @@ Cash back rewards are incentives offered by credit card companies, retailers, an
 
 ## How Does it Work?
 
-Let's start with the basics. Cash back is like a hidden treasure waiting to be discovered. It's essentially a percentage of the amount you spend that is returned to you. Picture it as a thank you bonus for being an avid app user. Or, a [way to make money on the side](/blog/creative-side-hustles) for being a loyal customer. Here is a easy . Instead of businesses paying billions for millions for ads on the T.V. or radio, they would rather pay you! This is cost-friendly for them, for you, a side hustle to earn additional cash.
+Let's start with the basics. Cash back is like a hidden treasure waiting to be discovered. It's essentially a percentage of the amount you spend that is returned to you. Picture it as a thank you bonus for being an avid app user. Or, a [way to make money on the side](creative-side-hustles) for being a loyal customer. Here is a easy . Instead of businesses paying billions for millions for ads on the T.V. or radio, they would rather pay you! This is cost-friendly for them, for you, a side hustle to earn additional cash.
 
 ## How to Earn Cashback
 

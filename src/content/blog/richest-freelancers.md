@@ -45,7 +45,7 @@ Jessica Hische, a freelance letterer and illustrator, is a prominent figure in t
 
 #### Consulting and Coaching
 
-Ramit Sethi, a financial advisor and author, who has a multimillion-dollar freelance consulting business in which he offers the [valuable freelance tips](/blog/tips-for-freelancers) to readers. Known for his book "I Will Teach You to Be Rich," Sethi provides high-ticket coaching and online courses on personal finance and entrepreneurship. Ramit Sethi methodology;
+Ramit Sethi, a financial advisor and author, who has a multimillion-dollar freelance consulting business in which he offers the [valuable freelance tips](tips-for-freelancers) to readers. Known for his book "I Will Teach You to Be Rich," Sethi provides high-ticket coaching and online courses on personal finance and entrepreneurship. Ramit Sethi methodology;
 
 * Premium Pricing: Sethi's high-value coaching programs command premium prices, contributing to his substantial income.
 * Scalability: By creating scalable digital products, he extended his reach and maximized his earnings potential.
@@ -72,7 +72,7 @@ Another key to their financial success is diversified income streams. Beyond cli
 
 ### Lessons from the Richest Freelancers
 
-Discover the [key statistics](/blog/statistics-freelancers-should-know) behind their success.
+Discover the [key statistics](statistics-freelancers-should-know) behind their success.
 
 #### Embrace Continuous Learning
 
@@ -92,4 +92,4 @@ Utilizing technology to streamline processes, enhance productivity, and reach a 
 
 ### Conclusion
 
-Everyone has to start somewhere, these entrepreneurs began by [starting freelance work](/blog/how-to-start-freelancing) to succeed. The stories of the richest freelancers highlight that achieving financial success in freelancing is not merely about talent but also about strategy, branding, and continuous growth. By mastering their craft, building strong personal brands, and diversifying their income streams, these freelancers have set themselves apart in a competitive market. Their journeys offer valuable lessons for anyone looking to thrive in the freelance economy.
+Everyone has to start somewhere, these entrepreneurs began by [starting freelance work](how-to-start-freelancing) to succeed. The stories of the richest freelancers highlight that achieving financial success in freelancing is not merely about talent but also about strategy, branding, and continuous growth. By mastering their craft, building strong personal brands, and diversifying their income streams, these freelancers have set themselves apart in a competitive market. Their journeys offer valuable lessons for anyone looking to thrive in the freelance economy.

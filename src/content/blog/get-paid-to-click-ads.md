@@ -18,7 +18,7 @@ As you may already know, you’ll need an internet connection if you want to get
 
 Are there other opportunities available? Yes, there are additional opportunities. You don’t have to limit yourself to clicking ads. You can make money by watching video ads, completing offers, and taking surveys. In addition, you can earn rewards by purchasing items online, posting reviews, and recruiting new members.
 
-Besides that, these are the [best side hustle ideas](/blog/creative-side-hustles) for people that are low on funds because they are free to join. You do not have to pay one penny out-of-pocket to get started. Below are 15 websites where you can get paid to click ads:
+Besides that, these are the [best side hustle ideas](creative-side-hustles) for people that are low on funds because they are free to join. You do not have to pay one penny out-of-pocket to get started. Below are 15 websites where you can get paid to click ads:
 
 ### Ayuwage.com
 
@@ -30,7 +30,7 @@ BuxInside provides its members with a few ways to make money. You can make money
 
 ### Donkeymails.com
 
-There are several ways you can earn with Donkeymails. You can [get paid to play games](/blog/play-games-for-cash), read emails, surf the Web, and much more. Above all else, you can get paid to click ads!
+There are several ways you can earn with Donkeymails. You can [get paid to play games](play-games-for-cash), read emails, surf the Web, and much more. Above all else, you can get paid to click ads!
 
 ### EasyHits4U.com
 

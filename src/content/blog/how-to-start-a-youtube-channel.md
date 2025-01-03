@@ -44,7 +44,7 @@ Don't forget to optimize your channel settings for searchability by including re
 
 ### 5. Choose a Type of YouTube Channel
 
-* Vlogs: [Vlogging channels](/blog/how-to-start-a-vlog) are personal video diaries where creators share their daily lives, thoughts, and experiences.
+* Vlogs: [Vlogging channels](how-to-start-a-vlog) are personal video diaries where creators share their daily lives, thoughts, and experiences.
 * Gaming: Gaming channels focus on video game content. This can range from Let's Plays and walkthroughs to reviews and live streaming.
 * Educational: Educational channels provide instructional content on a wide variety of subjects.
 * Beauty and Fashion: These channels are popular for their practical advice and often feature product reviews and collaborations with brands.
@@ -92,7 +92,7 @@ Once you've built a loyal audience and consistently produce high-quality content
 
 ### 10. Grow Social Media Presense
 
-Building an audience on YouTube takes time and effort. Consistently posting high-quality content and engaging with your audience is essential to [grow your social media presence](/blog/building-a-social-media-presence). Use eye-catching thumbnails and compelling titles to attract viewers. Interacting with comments and participating in community discussions can foster a loyal subscriber base.
+Building an audience on YouTube takes time and effort. Consistently posting high-quality content and engaging with your audience is essential to [grow your social media presence](building-a-social-media-presence). Use eye-catching thumbnails and compelling titles to attract viewers. Interacting with comments and participating in community discussions can foster a loyal subscriber base.
 
 #### How to Boost Traffic on YT
 

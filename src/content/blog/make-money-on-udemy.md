@@ -14,7 +14,7 @@ Ready to *make money on Udemy*? In the digital age, education has transcended th
 
 ## Why Udemy?
 
-When it comes to [online course creation](/blog/how-to-create-online-courses), Udemy is at the top. It is one of the largest online learning platforms, with over 40 million students and 155,000 courses available. This vast marketplace provides an incredible opportunity for instructors to reach a global audience and generate revenue online. But how can you stand out in such a crowded space?
+When it comes to [online course creation](how-to-create-online-courses), Udemy is at the top. It is one of the largest online learning platforms, with over 40 million students and 155,000 courses available. This vast marketplace provides an incredible opportunity for instructors to reach a global audience and generate revenue online. But how can you stand out in such a crowded space?
 
 ## What is Udemy
 
@@ -22,7 +22,7 @@ For starters, Udemy is online learning platform that offers a diverse array of c
 
 ## How to Make Money on Udemy
 
-Founded in 2010 by Eren Bali, Gagan Biyani, and Oktay Caglar, Udemy emerged as a revolutionary platform aimed at democratizing education More importantly, Udemy has become one of the [best online learning platforms](/blog/best-online-course-platforms). The founders envisioned a space where anyone, regardless of their background or location, could learn new skills and pursue their passions. From its humble beginnings, Udemy has evolved into a global marketplace boasting thousands of courses across various disciplines. Lets examine how to [earn money teaching online courses](/blog/make-money-teaching-online-courses) on Udemy:
+Founded in 2010 by Eren Bali, Gagan Biyani, and Oktay Caglar, Udemy emerged as a revolutionary platform aimed at democratizing education More importantly, Udemy has become one of the [best online learning platforms](best-online-course-platforms). The founders envisioned a space where anyone, regardless of their background or location, could learn new skills and pursue their passions. From its humble beginnings, Udemy has evolved into a global marketplace boasting thousands of courses across various disciplines. Lets examine how to [earn money teaching online courses](make-money-teaching-online-courses) on Udemy:
 
 ### Choose Your Niche Wisely
 

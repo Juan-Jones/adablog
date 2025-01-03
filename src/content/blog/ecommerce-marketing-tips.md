@@ -18,7 +18,7 @@ E-commerce has grown exponentially, with global sales expected to surpass 6.38 t
 
 ### 1. Conduct a E-commerce SWOT Analysis
 
-First things first, before [setting up your online store](/blog/launch-an-ecommerce-store), analyze the market by conducting an Ecommerce SWOT Analysis. This analysis identifies Strengths, Weaknesses, Opportunities, and Threats. Understanding these aspects provides a clear picture of the business environment. It helps in strategic planning and decision-making.
+First things first, before [setting up your online store](launch-an-ecommerce-store), analyze the market by conducting an Ecommerce SWOT Analysis. This analysis identifies Strengths, Weaknesses, Opportunities, and Threats. Understanding these aspects provides a clear picture of the business environment. It helps in strategic planning and decision-making.
 
 Social proof is a psychological phenomenon where people rely on the actions and opinions of others to make decisions. Leveraging social proof in your e-commerce strategy can significantly boost trust and credibility.
 
@@ -59,7 +59,7 @@ Educational content positions your brand as an authority and builds trust with y
 
 ### 9. Utilize Social Commerce
 
-Social commerce integrates shopping directly within social media platforms, streamlining the purchase process. Use shoppable posts on platforms like Instagram and Facebook to allow customers to buy products without leaving the app. Tag products in your posts to make them easily accessible. Set up a storefront on social media platforms. Ensure that your product listings are up-to-date and visually appealing. Hence, [gain a social media presence](/blog/building-a-social-media-presence).
+Social commerce integrates shopping directly within social media platforms, streamlining the purchase process. Use shoppable posts on platforms like Instagram and Facebook to allow customers to buy products without leaving the app. Tag products in your posts to make them easily accessible. Set up a storefront on social media platforms. Ensure that your product listings are up-to-date and visually appealing. Hence, [gain a social media presence](building-a-social-media-presence).
 
 ### 10. Encourage Customer Feedback
 
@@ -70,7 +70,7 @@ Customer feedback provides insights for improvement and demonstrates that you va
 
 ### 11. Select Successful E-commerce Platforms
 
-To succeed online, businesses must select [successful ecommerce platforms](/blog/best-ecommerce-platforms). These platforms offer various features to enhance user experience and support growth. Selecting the right one involves comparing functionalities and pricing. The platform should meet the business's specific needs and future goals.
+To succeed online, businesses must select [successful ecommerce platforms](best-ecommerce-platforms). These platforms offer various features to enhance user experience and support growth. Selecting the right one involves comparing functionalities and pricing. The platform should meet the business's specific needs and future goals.
 
 ### All in All
 
