@@ -19,11 +19,11 @@ Investing involves committing money or capital to an asset, such as stocks, bond
 
 ## Popular Investments and Strategies
 
-Investing offers several [passive income investment opportunities](passive-income-investments). One of the primary benefits is the potential for higher returns. Historical data shows that investments in diversified portfolios of stocks have consistently outpaced inflation over the long term. For instance, the S&P 500, a benchmark index of U.S. stocks, has averaged around 10% annual returns over several decades, demonstrating the power of compounding and growth.
+Investing offers several [passive income investment opportunities](/blog/passive-income-investments). One of the primary benefits is the potential for higher returns. Historical data shows that investments in diversified portfolios of stocks have consistently outpaced inflation over the long term. For instance, the S&P 500, a benchmark index of U.S. stocks, has averaged around 10% annual returns over several decades, demonstrating the power of compounding and growth.
 
 ### Stocks vs Bonds
 
-Stocks offer ownership in a company. Bonds are loans to a company or government. Stocks have higher risk but more growth potential. Bonds are safer with steady income. Investors choose based on goals and risk tolerance. Understanding these differences is key when comparing [stocks vs bonds](stocks-vs-bonds).
+Stocks offer ownership in a company. Bonds are loans to a company or government. Stocks have higher risk but more growth potential. Bonds are safer with steady income. Investors choose based on goals and risk tolerance. Understanding these differences is key when comparing [stocks vs bonds](/blog/stocks-vs-bonds).
 
 ### 1. Mutual Funds
 
@@ -35,7 +35,7 @@ Bonds are debt securities issued by governments, municipalities, or corporations
 
 ### 3. Crypto Investments
 
-Cryptocurrency has gained popularity due to its potential for high returns. However, they come with significant risk and volatility. Investors should thoroughly research and understand the market before committing funds to [crypto investments](cryptocurrency-investment-guide).
+Cryptocurrency has gained popularity due to its potential for high returns. However, they come with significant risk and volatility. Investors should thoroughly research and understand the market before committing funds to [crypto investments](/blog/cryptocurrency-investment-guide).
 
 ### Strategies for Investing
 
@@ -44,7 +44,7 @@ Cryptocurrency has gained popularity due to its potential for high returns. Howe
 
 ### Top Investors' Mindset
 
-Learning from [successful investors](top-investors) can provide valuable insights. Figures like Warren Buffett and Ray Dalio have proven methods that new investors can emulate. Studying their approaches to stocks, bonds,y and other investments can be highly beneficial. Successful investors often share common traits, including discipline, patience, and a long-term perspective. They focus on understanding the fundamentals of their investments, staying informed about market trends, and making decisions based on research rather than emotions.
+Learning from [successful investors](/blog/top-investors) can provide valuable insights. Figures like Warren Buffett and Ray Dalio have proven methods that new investors can emulate. Studying their approaches to stocks, bonds,y and other investments can be highly beneficial. Successful investors often share common traits, including discipline, patience, and a long-term perspective. They focus on understanding the fundamentals of their investments, staying informed about market trends, and making decisions based on research rather than emotions.
 
 ### Conclusion
 

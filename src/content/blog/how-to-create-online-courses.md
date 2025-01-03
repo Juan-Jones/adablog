@@ -40,7 +40,7 @@ For example, if you want to learn web development, define specific outcomes like
 
 ### 6. Choose the Best Platforms for Online Courses
 
-Selecting the [best platforms for online courses](best-online-course-platforms) to host your content is crucial for the success of your course. Consider factors like ease of use, features, pricing, and audience reach.
+Selecting the [best platforms for online courses](/blog/best-online-course-platforms) to host your content is crucial for the success of your course. Consider factors like ease of use, features, pricing, and audience reach.
 
 * Teachable: Known for its user-friendly interface and powerful marketing tools.
 * Udemy: Offers a massive audience and extensive marketing support.
@@ -52,11 +52,11 @@ Once you've chosen a platform, it's time to set up your course. This typically i
 
 ### 8. Market Your Online Course
 
-An effective marketing strategy is essential for attracting students. To successfully [market your online course](marketing-your-online-course), use various channels such as social media, email marketing, and SEO. Engaging content and testimonials can attract potential students. Additionally, offering free previews or discounts can entice users to enroll in the course.
+An effective marketing strategy is essential for attracting students. To successfully [market your online course](/blog/marketing-your-online-course), use various channels such as social media, email marketing, and SEO. Engaging content and testimonials can attract potential students. Additionally, offering free previews or discounts can entice users to enroll in the course.
 
 ### 9. Monetize Your Online Course
 
-[Monetizing online courses](make-money-teaching-online-courses) can be achieved through different methods such as subscription models, one-time fees, or offering certification upon completion. Partnering with educational platforms and promoting courses through social media can enhance visibility and sales.
+[Monetizing online courses](/blog/make-money-teaching-online-courses) can be achieved through different methods such as subscription models, one-time fees, or offering certification upon completion. Partnering with educational platforms and promoting courses through social media can enhance visibility and sales.
 
 ### 10. Pricing Your Course
 
@@ -66,7 +66,7 @@ Setting the right price for your course is crucial. Consider factors like the va
 
 Free learning platforms have made education more accessible than ever. Websites like Coursera, and Khan Academy provide access to high-quality courses in fields like technology, business, and science. You can find video lectures, quizzes, and even certifications to achieve your goals.
 
-By leveraging [edX free online course tools](edx-free-online-course), you can gain skills from top universities and institutions at no cost. Whether you're exploring a new subject or advancing your career, these tools make learning flexible, engaging, and affordable for everyone.
+By leveraging [edX free online course tools](/blog/edx-free-online-course), you can gain skills from top universities and institutions at no cost. Whether you're exploring a new subject or advancing your career, these tools make learning flexible, engaging, and affordable for everyone.
 
 ### Conclusion
 

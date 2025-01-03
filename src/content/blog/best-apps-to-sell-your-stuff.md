@@ -18,7 +18,7 @@ Today, there's a plethora of apps available that allow you to sell your stuff qu
 
 ### 1. eBay.com
 
-E-bay remains one of the most popular online marketplaces, offering a vast audience and a wide range of categories for selling items. From electronics and clothing to collectibles and antiques, [Ebay](/blog/https://www.ebay.com) provides sellers with a platform to reach millions of potential buyers worldwide. With features like auction-style listings and Buy It Now options, eBay offers flexibility in how you sell your items.
+E-bay remains one of the most popular online marketplaces, offering a vast audience and a wide range of categories for selling items. From electronics and clothing to collectibles and antiques, [Ebay](https://www.ebay.com) provides sellers with a platform to reach millions of potential buyers worldwide. With features like auction-style listings and Buy It Now options, eBay offers flexibility in how you sell your items.
 
 ### 2. Facebook Marketplace
 
@@ -38,7 +38,7 @@ Depop is a marketplace app known for its focus on unique and trendy fashion item
 
 ### 6. OfferUp.com
 
-OfferUp is a mobile marketplace app that emphasizes local buying and selling. It's perfect for selling larger items like furniture, appliances, and vehicles to people in your area. [OfferUps](/blog/https://offerup.com) user-friendly interface and secure messaging system make it easy to connect with buyers and negotiate prices. Plus, the app's built-in reputation system helps foster trust between buyers and sellers.
+OfferUp is a mobile marketplace app that emphasizes local buying and selling. It's perfect for selling larger items like furniture, appliances, and vehicles to people in your area. [OfferUps](https://offerup.com) user-friendly interface and secure messaging system make it easy to connect with buyers and negotiate prices. Plus, the app's built-in reputation system helps foster trust between buyers and sellers.
 
 ### 7. Letgo.com
 

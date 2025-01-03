@@ -24,7 +24,7 @@ Additionally, networking on social media and joining writing communities can hel
 
 ## Freelance Writing Tips
 
-Here are [key freelancing tips](tips-for-freelancers) and strategies writing.
+Here are [key freelancing tips](/blog/tips-for-freelancers) and strategies writing.
 
 ### Establish a Strong Portfolio
 
@@ -36,7 +36,7 @@ Specializing in a niche can set you apart from the competition. Whether it's tec
 
 ### Set Competitive Rates
 
-Research the market to understand the going rates for different types of writing projects. For example, if you want to [earn money on Fiverr](how-to-make-money-on-fiverr), you must set competitive rates. Consider your experience, the complexity of the work, and the client's budget when setting your rates. Be confident in your pricing and ready to negotiate when necessary.
+Research the market to understand the going rates for different types of writing projects. For example, if you want to [earn money on Fiverr](/blog/how-to-make-money-on-fiverr), you must set competitive rates. Consider your experience, the complexity of the work, and the client's budget when setting your rates. Be confident in your pricing and ready to negotiate when necessary.
 
 ### Create a Professional Website
 
@@ -48,7 +48,7 @@ Networking is vital for finding new clients and opportunities. Join freelance wr
 
 ### Handle Finances Wisely
 
-Freelancers are responsible for their own finances. Keep track of your income and expenses, set aside money for taxes, and consider using accounting software like QuickBooks or FreshBooks. Heres an article that might help: [Handling Freelance Finances](freelance-finance-management).
+Freelancers are responsible for their own finances. Keep track of your income and expenses, set aside money for taxes, and consider using accounting software like QuickBooks or FreshBooks. Heres an article that might help: [Handling Freelance Finances](/blog/freelance-finance-management).
 
 ### Protect Your Work and Rights
 
@@ -70,11 +70,11 @@ Rejection is part of the freelance writing journey. Learn from the feedback and 
 
 ### Diversify Your Income Streams
 
-Relying on a single client or type of writing can be risky. Diversify your income by exploring different writing opportunities, such as blogging, copywriting, technical writing, or [grant writing](grant-writing-strategies). Consider creating your own products, like eBooks or online courses.
+Relying on a single client or type of writing can be risky. Diversify your income by exploring different writing opportunities, such as blogging, copywriting, technical writing, or [grant writing](/blog/grant-writing-strategies). Consider creating your own products, like eBooks or online courses.
 
 ###  Find Solid Freelance Platforms
 
-Freelancing has become a popular career choice, offering flexibility and independence. The [best freelance platforms](best-freelance-websites) cater to various skill sets and industries, providing platforms for freelancers to connect with potential clients. Upwork is renowned for its vast marketplace, featuring jobs in writing, design, and tech. Fiverr allows freelancers to offer specific services at competitive prices, ideal for quick gigs. 
+Freelancing has become a popular career choice, offering flexibility and independence. The [best freelance platforms](/blog/best-freelance-websites) cater to various skill sets and industries, providing platforms for freelancers to connect with potential clients. Upwork is renowned for its vast marketplace, featuring jobs in writing, design, and tech. Fiverr allows freelancers to offer specific services at competitive prices, ideal for quick gigs. 
 
 Toptal targets top-tier professionals in software development, design, and finance, ensuring high-quality matches. Freelancer.com offers diverse projects and contests to showcase skills. These websites offer robust support, including secure payment systems, project management tools, and community resources, making them invaluable for freelancers looking to build and sustain successful careers.
 

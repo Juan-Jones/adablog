@@ -14,7 +14,7 @@ Fiverr has revolutionized the freelance marketplace by offering a platform where
 
 ## What is Fiverr
 
-Fiverr is a popular platform that connects freelancers with clients from around the world. Freelancers on Fiverr can offer a variety of services, from [diverse writing gigs](find-freelance-writing-gigs) and graphic design to website development and video production.
+Fiverr is a popular platform that connects freelancers with clients from around the world. Freelancers on Fiverr can offer a variety of services, from [diverse writing gigs](/blog/find-freelance-writing-gigs) and graphic design to website development and video production.
 
 ## Tips on Increasing Fiverr Profits
 
@@ -27,7 +27,7 @@ Fiverr is a popular platform that connects freelancers with clients from around 
 
 ## How to Make Money on Fiverr
 
-Before you can successfully [begin your freelance career](how-to-start-freelancing) on Fiverr, you need to learn the ins and outs. Consequently, you can earn income quickly when you monetize a Fiverr account. Here are 10 ways to earn income on Fiverr:
+Before you can successfully [begin your freelance career](/blog/how-to-start-freelancing) on Fiverr, you need to learn the ins and outs. Consequently, you can earn income quickly when you monetize a Fiverr account. Here are 10 ways to earn income on Fiverr:
 
 ## Creating a Fiverr Account
 
@@ -88,7 +88,7 @@ Don’t rely solely on Fiverr’s internal traffic. Promote your gigs on social 
 
 ### 9. Take Advantage of Fiverr’s Tools
 
-Fiverr offers various tools and [freelance tips](tips-for-freelancers) to help you succeed, such as analytics to track your performance and buyer requests to find potential clients. Utilize these resources to stay ahead of the competition and continuously improve your services.
+Fiverr offers various tools and [freelance tips](/blog/tips-for-freelancers) to help you succeed, such as analytics to track your performance and buyer requests to find potential clients. Utilize these resources to stay ahead of the competition and continuously improve your services.
 
 #### Conclusion
 

@@ -24,7 +24,7 @@ What experiences or expertise can you share that others cannot?
 What tone fits your personality—serious, comedic, or somewhere in between?
 Your podcast's personality should feel authentic to you while offering something of value to your listeners. For example, if you're passionate about obscure history and enjoy humor, combine those elements to create a distinctive niche.
 
-Defining your podcast’s identity is the foundation for building a brand that resonates with your audience. By understanding what makes your voice unique and aligning it with your goals, you set the stage for long-term success. If you're wondering [how to start a podcast](how-to-start-a-podcast), begin with clarity on your niche and personality to create a lasting impact.
+Defining your podcast’s identity is the foundation for building a brand that resonates with your audience. By understanding what makes your voice unique and aligning it with your goals, you set the stage for long-term success. If you're wondering [how to start a podcast](/blog/how-to-start-a-podcast), begin with clarity on your niche and personality to create a lasting impact.
 
 ### 2. Build a Cohesive Brand
 
@@ -36,13 +36,13 @@ Consistency in your logo, color scheme, and tone helps reinforce your podcast’
 
 Leverage platforms like Instagram, Twitter, and Facebook to promote episodes and interact with listeners. Share behind-the-scenes content, post engaging visuals, and use teasers to draw attention to your show.
 
-Take advantage of [podcasting seo techniques](podcasting-seo-strategies). Search engine optimization (SEO) can help potential listeners find your podcast. Use relevant keywords in episode titles, descriptions, and tags. For instance, if your podcast focuses on personal finance, incorporate terms like "budgeting tips" or "saving strategies."
+Take advantage of [podcasting seo techniques](/blog/podcasting-seo-strategies). Search engine optimization (SEO) can help potential listeners find your podcast. Use relevant keywords in episode titles, descriptions, and tags. For instance, if your podcast focuses on personal finance, incorporate terms like "budgeting tips" or "saving strategies."
 
 Last but not least, leverage partnerships. Partnering with other podcasters, influencers, or brands in your niche can help expose your show to new audiences. Guest appearances and cross-promotions are effective ways to grow.
 
 ### 4. Monetizing Your Podcast Brand
 
-Once your podcast gains traction, consider these [podcast monetization strategies](how-do-podcasts-make-money):
+Once your podcast gains traction, consider these [podcast monetization strategies](/blog/how-do-podcasts-make-money):
 
 * Sponsorships: Partner with brands that align with your audience’s interests. Highlight your listener demographics to attract potential sponsors.
 * Merchandise: Offer branded items such as T-shirts, mugs, or stickers to generate income while promoting your podcast.
