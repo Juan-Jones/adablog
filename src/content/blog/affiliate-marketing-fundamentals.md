@@ -13,7 +13,7 @@ tags:
 
 There are several reasons why you should consider affiliate marketing. To begin with, over the last decade the affiliate marketing industry has grown tremendously. According to research, the affiliate marketing industry was worth around 13 billion in 2016. Fast-forward to 2023, 17 billion. On top of that, you can earn passive income, and generate online income 24-7, even while your sleep!
 
-As an experienced affiliate marketer, I'm excited to guide you through the ins and outs of his lucrative industry. By the end of this article, you'll have a solid understanding of what affiliate marketing is, how it works, and how you can start [earning digital income](digital-income-ideas) through *affiliate marketing* strategies. More importantly, you can find out how to become an successful associate marketer.
+As an experienced affiliate marketer, I'm excited to guide you through the ins and outs of his lucrative industry. By the end of this article, you'll have a solid understanding of what affiliate marketing is, how it works, and how you can start [earning digital income](/blog/digital-income-ideas) through *affiliate marketing* strategies. More importantly, you can find out how to become an successful associate marketer.
 
 ## What is Affiliate Marketing?
 
@@ -31,7 +31,7 @@ A short version would be, affiliate marketing is a performance-based advertising
 There are five steps that take place in the associate marketing process:
 
 * Merchant Partnership: First, a merchant sign up and pays an affiliate network to sell products or offer services.
-* After joining an [affiliate program](best-affiliate-programs) the publishers receives unique affiliate links to sell digital products, or offer services.
+* After joining an [affiliate program](/blog/best-affiliate-programs) the publishers receives unique affiliate links to sell digital products, or offer services.
 * Next product or service is promoted on the publishers or associates platform, i.e., (social media channel, website, blog).
 * A customer purchases a product or service on the publishers platform.
 * Lastly, the publisher earns a commission by sales or leads, and the merchant earns a return on investment.
